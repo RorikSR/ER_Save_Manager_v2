@@ -19,6 +19,7 @@ Recommended publishing notes:
 
 - Keep attribution to ClayAmore/ER-Save-Editor visible.
 - Keep attribution to Ariescyn/EldenRing-Save-Manager visible if this codebase derives from or includes that project.
+- Keep `LICENSE`, `CREDITS.md`, and `NOTICE.md` visible in source releases.
 - Do not upload personal `.sl2` / `.co2` saves.
 - Do not upload local configs, backups, or scan reports with personal paths.
 - Include a clear warning that online use may carry ban risk.
@@ -42,6 +43,7 @@ Notas recomendadas para publicar:
 
 - Mantener visible el credito a ClayAmore/ER-Save-Editor.
 - Mantener visible el credito a Ariescyn/EldenRing-Save-Manager si este codigo deriva de ese proyecto o incluye partes de el.
+- Mantener visibles `LICENSE`, `CREDITS.md` y `NOTICE.md` en releases de codigo fuente.
 - No subir saves personales `.sl2` / `.co2`.
 - No subir configs locales, backups o reportes con rutas personales.
 - Incluir una advertencia clara de que el uso online puede implicar riesgo de ban.

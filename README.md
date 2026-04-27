@@ -22,6 +22,7 @@ This project builds on community knowledge and prior Elden Ring save-editing wor
 - Original reference/upstream credit: [ClayAmore/ER-Save-Editor](https://github.com/ClayAmore/ER-Save-Editor)
 - Earlier Python save-manager lineage/reference: [Ariescyn/EldenRing-Save-Manager](https://github.com/Ariescyn/EldenRing-Save-Manager)
 - See [CREDITS.md](CREDITS.md) and [NOTICE.md](NOTICE.md) before publishing releases or redistributing binaries.
+- See [LICENSE](LICENSE) for the current conservative license status.
 
 ## Features
 
@@ -105,6 +106,9 @@ dist\EldenRingSaveManager.exe
 
 Do not commit `dist/`. Attach the `.exe` as a **GitHub Release** asset instead.
 
+Release notes for the first public build are available in
+[docs/RELEASE_NOTES_v1.0.0-sote.md](docs/RELEASE_NOTES_v1.0.0-sote.md).
+
 ## Tests
 
 Syntax check:
@@ -147,6 +151,8 @@ English:
 - [Safety and backups](docs/SAFETY.md)
 - [GitHub publishing guide](docs/PUBLISHING.md)
 - [Release checklist](docs/RELEASE_CHECKLIST.md)
+- [Support policy](SUPPORT.md)
+- [Security policy](SECURITY.md)
 
 Spanish:
 

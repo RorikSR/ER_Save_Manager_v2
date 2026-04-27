@@ -27,6 +27,10 @@
 
 ## Release Notes
 
+- [ ] Link `docs/RELEASE_NOTES_v1.0.0-sote.md` or copy its relevant notes into the GitHub Release body.
+- [ ] Include the safety warning about backups, offline use, and ban risk.
+- [ ] Confirm `LICENSE`, `CREDITS.md`, `NOTICE.md`, `SECURITY.md`, and `SUPPORT.md` are present.
+
 ### Summary
 
 - Shadow of the Erdtree support.

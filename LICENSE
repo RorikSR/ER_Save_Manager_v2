@@ -1,0 +1,56 @@
+License Status / Estado De Licencia
+===================================
+
+English
+-------
+
+This repository is an unofficial community project for Elden Ring save-file
+management.
+
+This codebase derives from, references, or builds on prior community projects,
+including:
+
+- ClayAmore/ER-Save-Editor: https://github.com/ClayAmore/ER-Save-Editor
+- Ariescyn/EldenRing-Save-Manager: https://github.com/Ariescyn/EldenRing-Save-Manager
+
+ClayAmore/ER-Save-Editor publishes MIT and Apache-2.0 license files. The
+license status of other upstream code should be verified before redistributing
+modified binaries or relicensing the project.
+
+New documentation, project metadata, build scripts, and modernization work in
+this repository may be reused with attribution to RorikSR where legally
+permitted by the upstream licenses and permissions.
+
+This file is intentionally conservative. It is not a replacement for legal
+review, and it should be updated if upstream licensing is clarified.
+
+Elden Ring is property of FromSoftware/Bandai Namco. Seamless Co-op belongs to
+its respective authors. This project is not affiliated with or endorsed by
+those parties.
+
+Espanol
+-------
+
+Este repositorio es un proyecto comunitario no oficial para administrar saves
+de Elden Ring.
+
+Este codigo deriva, referencia o se apoya en proyectos comunitarios previos,
+incluyendo:
+
+- ClayAmore/ER-Save-Editor: https://github.com/ClayAmore/ER-Save-Editor
+- Ariescyn/EldenRing-Save-Manager: https://github.com/Ariescyn/EldenRing-Save-Manager
+
+ClayAmore/ER-Save-Editor publica archivos de licencia MIT y Apache-2.0. El
+estado de licencia de otro codigo upstream debe verificarse antes de
+redistribuir binarios modificados o relicenciar el proyecto.
+
+La documentacion nueva, metadata del proyecto, scripts de build y trabajo de
+modernizacion de este repositorio pueden reutilizarse con atribucion a RorikSR
+cuando las licencias y permisos upstream lo permitan legalmente.
+
+Este archivo es intencionalmente conservador. No reemplaza una revision legal y
+debe actualizarse si se aclara la licencia upstream.
+
+Elden Ring pertenece a FromSoftware/Bandai Namco. Seamless Co-op pertenece a
+sus respectivos autores. Este proyecto no esta afiliado ni respaldado por esas
+partes.

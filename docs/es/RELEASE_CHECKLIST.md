@@ -27,6 +27,10 @@
 
 ## Release Notes
 
+- [ ] Enlazar `docs/RELEASE_NOTES_v1.0.0-sote.md` o copiar sus notas relevantes en la descripcion de GitHub Release.
+- [ ] Incluir advertencia de seguridad sobre backups, uso offline y riesgo de ban.
+- [ ] Confirmar que existen `LICENSE`, `CREDITS.md`, `NOTICE.md`, `SECURITY.md` y `SUPPORT.md`.
+
 ### Resumen
 
 - Soporte Shadow of the Erdtree.
