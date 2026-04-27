@@ -106,6 +106,14 @@ dist\EldenRingSaveManager.exe
 
 Do not commit `dist/`. Attach the `.exe` as a **GitHub Release** asset instead.
 
+For Nexus Mods, build the offline-safe package:
+
+```powershell
+.\build_nexus_package.ps1
+```
+
+See [docs/NEXUS_MODS.md](docs/NEXUS_MODS.md) for upload text, tags, permissions, and release notes.
+
 Release notes for the first public build are available in
 [docs/RELEASE_NOTES_v1.0.0-sote.md](docs/RELEASE_NOTES_v1.0.0-sote.md).
 

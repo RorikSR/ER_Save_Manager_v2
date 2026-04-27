@@ -12,6 +12,7 @@ env/
 # Build artifacts
 build/
 dist/
+dist_nexus/
 *.log
 
 # Local save files and personal data

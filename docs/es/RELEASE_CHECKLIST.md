@@ -55,3 +55,9 @@ Adjuntar en GitHub Release:
 ```text
 dist\EldenRingSaveManager.exe
 ```
+
+Adjuntar en Nexus Mods:
+
+```text
+dist_nexus\ER_Save_Manager_v2_Nexus_v1.0.0-sote.zip
+```

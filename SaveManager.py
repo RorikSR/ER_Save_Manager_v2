@@ -17,6 +17,7 @@ from pathlib import Path as PATH
 #Collapse all functions to navigate. In Atom editor: "Edit > Folding > Fold All"
 
 Toplevel = main_window.ToplevelBase
+NEXUS_BUILD = os.environ.get("ER_SAVE_MANAGER_NEXUS_BUILD") == "1"
 
 
 # set always the working dir to the correct folder for unix env
@@ -310,6 +311,10 @@ def forcequit():
 
 def update_app(on_start=False):
     """Gets redirect URL of latest release, then pulls the version number from URL and makes a comparison"""
+    if NEXUS_BUILD:
+        if not on_start:
+            popup("Update checks are disabled in the Nexus Mods build. Download updates from Nexus Mods or GitHub Releases.")
+        return
 
     try:
         version_url = "https://github.com/RorikSR/ER_Save_Manager_v2/releases/latest"
@@ -402,7 +407,7 @@ def create_save():
 
 
         cp_to_saves_cmd = lambda: savefile_io.copy_save_to_directory(path, newdir, target_filename=ext())
-        # /E – Copy subdirectories, including any empty ones.
+        # /E - Copy subdirectories, including any empty ones.
         # /H - Copy files with hidden and system file attributes.
         # /C - Continue copying even if an error occurs.
         # /I - If in doubt, always assume the destination is a folder. e.g. when the destination does not exist
@@ -3651,7 +3656,8 @@ def main():
     editmenu = Menu(menubar, tearoff=0)
     editmenu.add_command(label="Change Default Directory", command=change_default_dir)
     editmenu.add_command(label="Change Default SteamID", command=change_default_steamid_menu)
-    editmenu.add_command(label="Check for updates", command=update_app)
+    if not NEXUS_BUILD:
+        editmenu.add_command(label="Check for updates", command=update_app)
     menubar.add_cascade(label="Edit", menu=editmenu)
 
     toolsmenu = Menu(menubar, tearoff=0)
@@ -3820,7 +3826,8 @@ def main():
         wraplength=455,
     ).pack(anchor="w", padx=20, pady=(0, 18))
 
-    update_app(True)
+    if not NEXUS_BUILD:
+        update_app(True)
 
     if len(config.cfg["steamid"]) != 17:
         popup("SteamID not set. Click edit > Change default SteamID to set.")

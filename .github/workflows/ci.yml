@@ -27,7 +27,7 @@ jobs:
 
       - name: Compile Python files
         run: |
-          python -m py_compile app.py app_paths.py SaveManager.py update.py hexedit.py itemdata.py savefile_io.py os_layer.py logic\checksum.py logic\hex_editor.py logic\inventory_tools.py gui\main_window.py
+          python -m py_compile app.py app_nexus.py app_paths.py SaveManager.py update.py hexedit.py itemdata.py savefile_io.py os_layer.py logic\checksum.py logic\hex_editor.py logic\inventory_tools.py gui\main_window.py
 
       - name: Validate item catalogs
         run: |
