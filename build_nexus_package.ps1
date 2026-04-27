@@ -53,11 +53,16 @@ if ($runner -eq "py") {
 
 $packageRoot = Join-Path (Get-Location) "dist_nexus"
 $payloadDir = Join-Path $packageRoot "ER_Save_Manager_v2_Nexus"
-$zipPath = Join-Path $packageRoot "ER_Save_Manager_v2_Nexus_v1.0.0-sote.zip"
+$zipPath = Join-Path $packageRoot "ER_Save_Manager_v2_Nexus_v1.0.0-sote_onedir.zip"
+$pyinstallerOutput = Join-Path (Get-Location) "dist\ER_Save_Manager_v2_Nexus"
 
-New-Item -ItemType Directory -Force -Path $payloadDir | Out-Null
+if (Test-Path $payloadDir) {
+    Remove-Item -LiteralPath $payloadDir -Recurse -Force
+}
 
-Copy-Item -Force "dist\ER_Save_Manager_v2_Nexus.exe" (Join-Path $payloadDir "ER_Save_Manager_v2_Nexus.exe")
+New-Item -ItemType Directory -Force -Path $packageRoot | Out-Null
+
+Copy-Item -Recurse -Force $pyinstallerOutput $payloadDir
 Copy-Item -Force "README_NEXUS.md" (Join-Path $payloadDir "README_NEXUS.md")
 Copy-Item -Force "LICENSE" (Join-Path $payloadDir "LICENSE.txt")
 Copy-Item -Force "CREDITS.md" (Join-Path $payloadDir "CREDITS.md")
@@ -68,6 +73,6 @@ if (Test-Path $zipPath) {
     Remove-Item -LiteralPath $zipPath -Force
 }
 
-Compress-Archive -Path (Join-Path $payloadDir "*") -DestinationPath $zipPath
+Compress-Archive -Path $payloadDir -DestinationPath $zipPath
 
 Write-Host "Nexus package generated at: $zipPath"

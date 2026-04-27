@@ -8,8 +8,10 @@ This is a local/offline save manager and save editor for Elden Ring. It supports
 vanilla `.sl2` saves and Seamless Co-op `.co2` saves.
 
 This Nexus build disables automatic update checks and does not download files at
-startup. The app may only open external links when the user manually clicks help
-or source links.
+startup. It is packaged in PyInstaller `onedir` mode to keep dependencies visible
+and reduce antivirus false positives compared with a single packed executable.
+The app may only open external links when the user manually clicks help or source
+links.
 
 ## Features
 
@@ -26,10 +28,11 @@ or source links.
 ## Installation
 
 1. Extract the archive anywhere outside the Elden Ring game folder.
-2. Run `ER_Save_Manager_v2_Nexus.exe`.
-3. Close Elden Ring before editing any save.
-4. Set your save folder and SteamID in the app.
-5. Run `Verify Current Save` before making changes.
+2. Open the extracted `ER_Save_Manager_v2_Nexus` folder.
+3. Run `ER_Save_Manager_v2_Nexus.exe`.
+4. Close Elden Ring before editing any save.
+5. Set your save folder and SteamID in the app.
+6. Run `Verify Current Save` before making changes.
 
 ## Safety
 
