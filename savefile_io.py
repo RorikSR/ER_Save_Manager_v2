@@ -4,10 +4,12 @@ import shutil
 import time
 from datetime import datetime
 from pathlib import Path
+from app_paths import DATA_DIR, ensure_runtime_data
 
 
+ensure_runtime_data()
 REPO_ROOT = Path(__file__).resolve().parent
-BACKUP_ROOT = REPO_ROOT / "data" / "backups"
+BACKUP_ROOT = DATA_DIR / "backups"
 SAVE_FILENAMES = ("ER0000.sl2", "ER0000.co2")
 LAST_BACKUP_BY_PATH = {}
 

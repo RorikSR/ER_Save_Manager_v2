@@ -1,11 +1,17 @@
 import json
 from pathlib import Path
+from app_paths import DATA_DIR, ensure_runtime_data
 
 
+ensure_runtime_data()
 BASE_DIR = Path(__file__).resolve().parent
-CONFIG_PATH = BASE_DIR / "data" / "config.json"
-ITEM_DATA_DIR = BASE_DIR / "data" / "items"
+CONFIG_PATH = DATA_DIR / "config.json"
+ITEM_DATA_DIR = DATA_DIR / "items"
 CATALOG_FILES = ("base_game.json", "shadow_of_the_erdtree.json")
+DLC_CONSUMABLE_ALIASES = {
+    "Scadutree Fragment": "Upgrade Materials",
+    "Revered Spirit Ash": "Upgrade Materials",
+}
 
 
 def _normalize_item_ids(value):
@@ -81,6 +87,12 @@ def load_item_database(config_path=CONFIG_PATH):
 
         if normalized_custom_items:
             database["Custom Items"] = normalized_custom_items
+
+    consumables = database.setdefault("Consumables", {})
+    for item_name, source_category in DLC_CONSUMABLE_ALIASES.items():
+        source_entry = database.get(source_category, {}).get(item_name)
+        if source_entry is not None:
+            consumables.setdefault(item_name, source_entry)
 
     return database
 

@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.log
+
+# Local save files and personal data
+*.sl2
+*.co2
+ER0000.*
+data/config.json
+data/post.update
+data/GameSaveDir.txt
+data/archive/
+data/backup/
+data/backups/
+data/recovered/
+data/reports/
+data/save-files/
+data/save-files-pre-V1.5-BACKUP/
+data/temp/
+data/updates/
+
+# Keep public assets/catalogs
+!data/assets/
+!data/assets/**
+!data/items/
+!data/items/**
+!data/background.png
+!data/changelog.txt
+!data/copy-readme.txt
+!data/icon.ico
+!data/readme.txt
+!data/upd.ico
+!data/config.example.json
+
+# Editor/OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

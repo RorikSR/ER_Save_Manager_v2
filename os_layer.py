@@ -4,21 +4,29 @@ import sys
 import subprocess
 import shutil
 import re
+from pathlib import Path
+from app_paths import APP_DIR, data_dir, data_path, ensure_runtime_data
+
+
+ensure_runtime_data()
+os.chdir(APP_DIR)
 
 # main variables, directories and settings
-config_path = "./data/config.json"
-savedir = "./data/save-files/"
+config_path = str(data_path("config.json"))
+savedir = data_dir("save-files")
 app_title = "Elden Ring Save Manager"
-backupdir = "./data/backup/"
-update_dir = "./data/updates/"
-temp_dir = "./data/temp/"
-post_update_file = "./data/post.update"
+backupdir = data_dir("backup")
+update_dir = data_dir("updates")
+temp_dir = data_dir("temp")
+post_update_file = str(data_path("post.update"))
+gamesavedir_txt = str(data_path("GameSaveDir.txt"))
+eldenring_savedata_dir = str(Path.home() / "AppData" / "Roaming" / "EldenRing")
 version = "v1.73"
 v_num = 1.73  # Used for checking version for update
 video_url = "https://youtu.be/LQxmFuq3dfg"
 custom_search_tutorial_url = "https://youtu.be/li-ZiMXBmRk"
-background_img = "./data/background.png"
-icon_file = "./data/icon.ico"
+background_img = str(data_path("background.png"))
+icon_file = str(data_path("icon.ico"))
 bk_p = (-140, 20)  # Background image position
 is_windows = any(platform.win32_ver()) or hasattr(sys, "getwindowsversion")
 

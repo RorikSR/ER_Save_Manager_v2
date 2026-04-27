@@ -1,0 +1,2 @@
+Fixed issue with stat editor being unable to acquire stats from some characters
+If you enjoy the app and want to support future updates, PLEASE donate! Even $1 is appreciated!

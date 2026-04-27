@@ -1,0 +1,8200 @@
+{
+  "_meta": {
+    "source": "Generated from Elden Ring Debug Tool resources",
+    "tool_root": "D:\\ELDEN RING\\tools\\erdt\\app\\Elden Ring Debug Tool 0.8.6.2",
+    "notes": [
+      "This file is generated automatically from the DLC resource text files bundled with Elden Ring Debug Tool.",
+      "raw_item is the 32-bit inventory value currently used by the save editor."
+    ]
+  },
+  "Armor": {
+    "Dane's Hat": {
+      "ids": [
+        192,
+        198
+      ],
+      "goods_id": 3000000,
+      "raw_item": 2955790016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dryleaf Robe": {
+      "ids": [
+        36,
+        199
+      ],
+      "goods_id": 3000100,
+      "raw_item": 2955790116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dryleaf Arm Wraps": {
+      "ids": [
+        136,
+        199
+      ],
+      "goods_id": 3000200,
+      "raw_item": 2955790216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dryleaf Cuissardes": {
+      "ids": [
+        236,
+        199
+      ],
+      "goods_id": 3000300,
+      "raw_item": 2955790316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dryleaf Robe (Altered)": {
+      "ids": [
+        12,
+        203
+      ],
+      "goods_id": 3001100,
+      "raw_item": 2955791116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gaius's Helm": {
+      "ids": [
+        208,
+        237
+      ],
+      "goods_id": 3010000,
+      "raw_item": 2955800016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gaius's Armor": {
+      "ids": [
+        52,
+        238
+      ],
+      "goods_id": 3010100,
+      "raw_item": 2955800116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gaius's Gauntlets": {
+      "ids": [
+        152,
+        238
+      ],
+      "goods_id": 3010200,
+      "raw_item": 2955800216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gaius's Greaves": {
+      "ids": [
+        252,
+        238
+      ],
+      "goods_id": 3010300,
+      "raw_item": 2955800316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Oathseeker Knight Helm": {
+      "ids": [
+        64,
+        75
+      ],
+      "goods_id": 5000000,
+      "raw_item": 2957790016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Leda's Armor": {
+      "ids": [
+        164,
+        75
+      ],
+      "goods_id": 5000100,
+      "raw_item": 2957790116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Oathseeker Knight Gauntlets": {
+      "ids": [
+        8,
+        76
+      ],
+      "goods_id": 5000200,
+      "raw_item": 2957790216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Oathseeker Knight Greaves": {
+      "ids": [
+        108,
+        76
+      ],
+      "goods_id": 5000300,
+      "raw_item": 2957790316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Oathseeker Knight Armor": {
+      "ids": [
+        116,
+        83
+      ],
+      "goods_id": 5002100,
+      "raw_item": 2957792116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Verdigris Helm": {
+      "ids": [
+        80,
+        114
+      ],
+      "goods_id": 5010000,
+      "raw_item": 2957800016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Verdigris Armor": {
+      "ids": [
+        180,
+        114
+      ],
+      "goods_id": 5010100,
+      "raw_item": 2957800116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Verdigris Gauntlets": {
+      "ids": [
+        24,
+        115
+      ],
+      "goods_id": 5010200,
+      "raw_item": 2957800216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Verdigris Greaves": {
+      "ids": [
+        124,
+        115
+      ],
+      "goods_id": 5010300,
+      "raw_item": 2957800316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Pelt of Ralva": {
+      "ids": [
+        96,
+        153
+      ],
+      "goods_id": 5020000,
+      "raw_item": 2957810016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Iron Rivet Armor": {
+      "ids": [
+        196,
+        153
+      ],
+      "goods_id": 5020100,
+      "raw_item": 2957810116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Iron Rivet Gauntlets": {
+      "ids": [
+        40,
+        154
+      ],
+      "goods_id": 5020200,
+      "raw_item": 2957810216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Iron Rivet Greaves": {
+      "ids": [
+        140,
+        154
+      ],
+      "goods_id": 5020300,
+      "raw_item": 2957810316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Fang Helm": {
+      "ids": [
+        72,
+        157
+      ],
+      "goods_id": 5021000,
+      "raw_item": 2957811016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Thiollier's Mask": {
+      "ids": [
+        112,
+        192
+      ],
+      "goods_id": 5030000,
+      "raw_item": 2957820016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Thiollier's Garb": {
+      "ids": [
+        212,
+        192
+      ],
+      "goods_id": 5030100,
+      "raw_item": 2957820116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Thiollier's Gloves": {
+      "ids": [
+        56,
+        193
+      ],
+      "goods_id": 5030200,
+      "raw_item": 2957820216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Thiollier's Trousers": {
+      "ids": [
+        156,
+        193
+      ],
+      "goods_id": 5030300,
+      "raw_item": 2957820316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Thiollier's Garb (Altered)": {
+      "ids": [
+        188,
+        196
+      ],
+      "goods_id": 5031100,
+      "raw_item": 2957821116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "High Priest Hat": {
+      "ids": [
+        160,
+        53
+      ],
+      "goods_id": 5060000,
+      "raw_item": 2957850016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "High Priest Robe": {
+      "ids": [
+        4,
+        54
+      ],
+      "goods_id": 5060100,
+      "raw_item": 2957850116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "High Priest Gloves": {
+      "ids": [
+        104,
+        54
+      ],
+      "goods_id": 5060200,
+      "raw_item": 2957850216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "High Priest Undergarments": {
+      "ids": [
+        204,
+        54
+      ],
+      "goods_id": 5060300,
+      "raw_item": 2957850316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Finger Robe": {
+      "ids": [
+        212,
+        61
+      ],
+      "goods_id": 5062100,
+      "raw_item": 2957852116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Caterpillar Mask": {
+      "ids": [
+        176,
+        92
+      ],
+      "goods_id": 5070000,
+      "raw_item": 2957860016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Braided Cord Robe": {
+      "ids": [
+        20,
+        93
+      ],
+      "goods_id": 5070100,
+      "raw_item": 2957860116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Braided Arm Wraps": {
+      "ids": [
+        120,
+        93
+      ],
+      "goods_id": 5070200,
+      "raw_item": 2957860216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Soiled Loincloth": {
+      "ids": [
+        220,
+        93
+      ],
+      "goods_id": 5070300,
+      "raw_item": 2957860316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dancer's Hood": {
+      "ids": [
+        192,
+        131
+      ],
+      "goods_id": 5080000,
+      "raw_item": 2957870016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dancer's Dress": {
+      "ids": [
+        36,
+        132
+      ],
+      "goods_id": 5080100,
+      "raw_item": 2957870116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dancer's Bracer": {
+      "ids": [
+        136,
+        132
+      ],
+      "goods_id": 5080200,
+      "raw_item": 2957870216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dancer's Trousers": {
+      "ids": [
+        236,
+        132
+      ],
+      "goods_id": 5080300,
+      "raw_item": 2957870316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Dancer's Dress (Altered)": {
+      "ids": [
+        12,
+        136
+      ],
+      "goods_id": 5081100,
+      "raw_item": 2957871116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Helm of Night": {
+      "ids": [
+        208,
+        170
+      ],
+      "goods_id": 5090000,
+      "raw_item": 2957880016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Armor of Night": {
+      "ids": [
+        52,
+        171
+      ],
+      "goods_id": 5090100,
+      "raw_item": 2957880116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gauntlets of Night": {
+      "ids": [
+        152,
+        171
+      ],
+      "goods_id": 5090200,
+      "raw_item": 2957880216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Greaves of Night": {
+      "ids": [
+        252,
+        171
+      ],
+      "goods_id": 5090300,
+      "raw_item": 2957880316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Igon's Helm": {
+      "ids": [
+        224,
+        209
+      ],
+      "goods_id": 5100000,
+      "raw_item": 2957890016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Igon's Armor": {
+      "ids": [
+        68,
+        210
+      ],
+      "goods_id": 5100100,
+      "raw_item": 2957890116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Igon's Gauntlets": {
+      "ids": [
+        168,
+        210
+      ],
+      "goods_id": 5100200,
+      "raw_item": 2957890216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Igon's Loincloth": {
+      "ids": [
+        12,
+        211
+      ],
+      "goods_id": 5100300,
+      "raw_item": 2957890316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Igon's Helm (Altered)": {
+      "ids": [
+        200,
+        213
+      ],
+      "goods_id": 5101000,
+      "raw_item": 2957891016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Igon's Armor (Altered)": {
+      "ids": [
+        44,
+        214
+      ],
+      "goods_id": 5101100,
+      "raw_item": 2957891116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Wise Man's Mask": {
+      "ids": [
+        240,
+        248
+      ],
+      "goods_id": 5110000,
+      "raw_item": 2957900016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ansbach's Attire": {
+      "ids": [
+        84,
+        249
+      ],
+      "goods_id": 5110100,
+      "raw_item": 2957900116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ansbach's Manchettes": {
+      "ids": [
+        184,
+        249
+      ],
+      "goods_id": 5110200,
+      "raw_item": 2957900216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ansbach's Boots": {
+      "ids": [
+        28,
+        250
+      ],
+      "goods_id": 5110300,
+      "raw_item": 2957900316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ansbach's Attire (Altered)": {
+      "ids": [
+        60,
+        253
+      ],
+      "goods_id": 5111100,
+      "raw_item": 2957901116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Freyja's Helm": {
+      "ids": [
+        0,
+        32
+      ],
+      "goods_id": 5120000,
+      "raw_item": 2957910016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Freyja's Armor": {
+      "ids": [
+        100,
+        32
+      ],
+      "goods_id": 5120100,
+      "raw_item": 2957910116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Freyja's Gauntlets": {
+      "ids": [
+        200,
+        32
+      ],
+      "goods_id": 5120200,
+      "raw_item": 2957910216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Freyja's Greaves": {
+      "ids": [
+        44,
+        33
+      ],
+      "goods_id": 5120300,
+      "raw_item": 2957910316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Freyja's Armor (Altered)": {
+      "ids": [
+        76,
+        36
+      ],
+      "goods_id": 5121100,
+      "raw_item": 2957911116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Helm of Solitude": {
+      "ids": [
+        16,
+        71
+      ],
+      "goods_id": 5130000,
+      "raw_item": 2957920016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Armor of Solitude": {
+      "ids": [
+        116,
+        71
+      ],
+      "goods_id": 5130100,
+      "raw_item": 2957920116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gauntlets of Solitude": {
+      "ids": [
+        216,
+        71
+      ],
+      "goods_id": 5130200,
+      "raw_item": 2957920216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Greaves of Solitude": {
+      "ids": [
+        60,
+        72
+      ],
+      "goods_id": 5130300,
+      "raw_item": 2957920316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Armor of Solitude (Altered)": {
+      "ids": [
+        92,
+        75
+      ],
+      "goods_id": 5131100,
+      "raw_item": 2957921116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer Soldier Helm": {
+      "ids": [
+        32,
+        110
+      ],
+      "goods_id": 5140000,
+      "raw_item": 2957930016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer Soldier Armor": {
+      "ids": [
+        132,
+        110
+      ],
+      "goods_id": 5140100,
+      "raw_item": 2957930116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer Soldier Gauntlets": {
+      "ids": [
+        232,
+        110
+      ],
+      "goods_id": 5140200,
+      "raw_item": 2957930216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer Soldier Greaves": {
+      "ids": [
+        76,
+        111
+      ],
+      "goods_id": 5140300,
+      "raw_item": 2957930316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer Soldier Armor (Altered)": {
+      "ids": [
+        108,
+        114
+      ],
+      "goods_id": 5141100,
+      "raw_item": 2957931116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Black Knight Helm": {
+      "ids": [
+        48,
+        149
+      ],
+      "goods_id": 5150000,
+      "raw_item": 2957940016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Black Knight Armor": {
+      "ids": [
+        148,
+        149
+      ],
+      "goods_id": 5150100,
+      "raw_item": 2957940116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Black Knight Gauntlets": {
+      "ids": [
+        248,
+        149
+      ],
+      "goods_id": 5150200,
+      "raw_item": 2957940216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Black Knight Greaves": {
+      "ids": [
+        92,
+        150
+      ],
+      "goods_id": 5150300,
+      "raw_item": 2957940316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rakshasa Helm": {
+      "ids": [
+        64,
+        188
+      ],
+      "goods_id": 5160000,
+      "raw_item": 2957950016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rakshasa Armor": {
+      "ids": [
+        164,
+        188
+      ],
+      "goods_id": 5160100,
+      "raw_item": 2957950116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rakshasa Gauntlets": {
+      "ids": [
+        8,
+        189
+      ],
+      "goods_id": 5160200,
+      "raw_item": 2957950216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rakshasa Greaves": {
+      "ids": [
+        108,
+        189
+      ],
+      "goods_id": 5160300,
+      "raw_item": 2957950316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Fire Knight Helm": {
+      "ids": [
+        96,
+        10
+      ],
+      "goods_id": 5180000,
+      "raw_item": 2957970016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Fire Knight Armor": {
+      "ids": [
+        196,
+        10
+      ],
+      "goods_id": 5180100,
+      "raw_item": 2957970116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Fire Knight Gauntlets": {
+      "ids": [
+        40,
+        11
+      ],
+      "goods_id": 5180200,
+      "raw_item": 2957970216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Fire Knight Greaves": {
+      "ids": [
+        140,
+        11
+      ],
+      "goods_id": 5180300,
+      "raw_item": 2957970316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Fire Knight Armor (Altered)": {
+      "ids": [
+        172,
+        14
+      ],
+      "goods_id": 5181100,
+      "raw_item": 2957971116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Death Mask Helm": {
+      "ids": [
+        48,
+        18
+      ],
+      "goods_id": 5182000,
+      "raw_item": 2957972016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Winged Serpent Helm": {
+      "ids": [
+        24,
+        22
+      ],
+      "goods_id": 5183000,
+      "raw_item": 2957973016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Salza's Hood": {
+      "ids": [
+        0,
+        26
+      ],
+      "goods_id": 5184000,
+      "raw_item": 2957974016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Leather Headband": {
+      "ids": [
+        112,
+        49
+      ],
+      "goods_id": 5190000,
+      "raw_item": 2957980016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gloried Attire": {
+      "ids": [
+        212,
+        49
+      ],
+      "goods_id": 5190100,
+      "raw_item": 2957980116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Leather Arm Wraps": {
+      "ids": [
+        56,
+        50
+      ],
+      "goods_id": 5190200,
+      "raw_item": 2957980216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Leather Leg Wraps": {
+      "ids": [
+        156,
+        50
+      ],
+      "goods_id": 5190300,
+      "raw_item": 2957980316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Leather Crown": {
+      "ids": [
+        88,
+        53
+      ],
+      "goods_id": 5191000,
+      "raw_item": 2957981016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Highland Attire": {
+      "ids": [
+        188,
+        53
+      ],
+      "goods_id": 5191100,
+      "raw_item": 2957981116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Death Knight Helm": {
+      "ids": [
+        128,
+        88
+      ],
+      "goods_id": 5200000,
+      "raw_item": 2957990016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Death Knight Armor": {
+      "ids": [
+        228,
+        88
+      ],
+      "goods_id": 5200100,
+      "raw_item": 2957990116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Death Knight Gauntlets": {
+      "ids": [
+        72,
+        89
+      ],
+      "goods_id": 5200200,
+      "raw_item": 2957990216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Death Knight Greaves": {
+      "ids": [
+        172,
+        89
+      ],
+      "goods_id": 5200300,
+      "raw_item": 2957990316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Curseblade Mask": {
+      "ids": [
+        144,
+        127
+      ],
+      "goods_id": 5210000,
+      "raw_item": 2958000016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ascetic's Loincloth": {
+      "ids": [
+        244,
+        127
+      ],
+      "goods_id": 5210100,
+      "raw_item": 2958000116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ascetic's Wrist Guards": {
+      "ids": [
+        88,
+        128
+      ],
+      "goods_id": 5210200,
+      "raw_item": 2958000216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Ascetic's Ankle Guards": {
+      "ids": [
+        188,
+        128
+      ],
+      "goods_id": 5210300,
+      "raw_item": 2958000316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer's Helm": {
+      "ids": [
+        160,
+        166
+      ],
+      "goods_id": 5220000,
+      "raw_item": 2958010016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer's Armor": {
+      "ids": [
+        4,
+        167
+      ],
+      "goods_id": 5220100,
+      "raw_item": 2958010116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer's Gauntlets": {
+      "ids": [
+        104,
+        167
+      ],
+      "goods_id": 5220200,
+      "raw_item": 2958010216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer's Greaves": {
+      "ids": [
+        204,
+        167
+      ],
+      "goods_id": 5220300,
+      "raw_item": 2958010316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Messmer's Helm (Altered)": {
+      "ids": [
+        136,
+        170
+      ],
+      "goods_id": 5221000,
+      "raw_item": 2958011016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gravebird Helm": {
+      "ids": [
+        176,
+        205
+      ],
+      "goods_id": 5230000,
+      "raw_item": 2958020016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gravebird's Blackquill Armor": {
+      "ids": [
+        20,
+        206
+      ],
+      "goods_id": 5230100,
+      "raw_item": 2958020116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gravebird Bracelets": {
+      "ids": [
+        120,
+        206
+      ],
+      "goods_id": 5230200,
+      "raw_item": 2958020216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gravebird Anklets": {
+      "ids": [
+        220,
+        206
+      ],
+      "goods_id": 5230300,
+      "raw_item": 2958020316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Gravebird Armor": {
+      "ids": [
+        252,
+        209
+      ],
+      "goods_id": 5231100,
+      "raw_item": 2958021116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Common Soldier Helm": {
+      "ids": [
+        192,
+        244
+      ],
+      "goods_id": 5240000,
+      "raw_item": 2958030016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Common Soldier Cloth Armor": {
+      "ids": [
+        36,
+        245
+      ],
+      "goods_id": 5240100,
+      "raw_item": 2958030116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Common Soldier Gauntlets": {
+      "ids": [
+        136,
+        245
+      ],
+      "goods_id": 5240200,
+      "raw_item": 2958030216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Common Soldier Greaves": {
+      "ids": [
+        236,
+        245
+      ],
+      "goods_id": 5240300,
+      "raw_item": 2958030316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Horned Warrior Helm": {
+      "ids": [
+        208,
+        27
+      ],
+      "goods_id": 5250000,
+      "raw_item": 2958040016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Horned Warrior Armor": {
+      "ids": [
+        52,
+        28
+      ],
+      "goods_id": 5250100,
+      "raw_item": 2958040116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Horned Warrior Gauntlets": {
+      "ids": [
+        152,
+        28
+      ],
+      "goods_id": 5250200,
+      "raw_item": 2958040216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Horned Warrior Greaves": {
+      "ids": [
+        252,
+        28
+      ],
+      "goods_id": 5250300,
+      "raw_item": 2958040316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Beast Helm": {
+      "ids": [
+        160,
+        35
+      ],
+      "goods_id": 5252000,
+      "raw_item": 2958042016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Beast Warrior Armor": {
+      "ids": [
+        4,
+        36
+      ],
+      "goods_id": 5252100,
+      "raw_item": 2958042116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Bird Helm": {
+      "ids": [
+        136,
+        39
+      ],
+      "goods_id": 5253000,
+      "raw_item": 2958043016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Bird Warrior Armor": {
+      "ids": [
+        236,
+        39
+      ],
+      "goods_id": 5253100,
+      "raw_item": 2958043116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Bird Warrior Gauntlets": {
+      "ids": [
+        80,
+        40
+      ],
+      "goods_id": 5253200,
+      "raw_item": 2958043216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Bird Warrior Greaves": {
+      "ids": [
+        180,
+        40
+      ],
+      "goods_id": 5253300,
+      "raw_item": 2958043316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rellana's Helm": {
+      "ids": [
+        224,
+        66
+      ],
+      "goods_id": 5260000,
+      "raw_item": 2958050016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rellana's Armor": {
+      "ids": [
+        68,
+        67
+      ],
+      "goods_id": 5260100,
+      "raw_item": 2958050116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rellana's Gloves": {
+      "ids": [
+        168,
+        67
+      ],
+      "goods_id": 5260200,
+      "raw_item": 2958050216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Rellana's Greaves": {
+      "ids": [
+        12,
+        68
+      ],
+      "goods_id": 5260300,
+      "raw_item": 2958050316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Young Lion's Helm": {
+      "ids": [
+        240,
+        105
+      ],
+      "goods_id": 5270000,
+      "raw_item": 2958060016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Young Lion's Armor": {
+      "ids": [
+        84,
+        106
+      ],
+      "goods_id": 5270100,
+      "raw_item": 2958060116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Young Lion's Gauntlets": {
+      "ids": [
+        184,
+        106
+      ],
+      "goods_id": 5270200,
+      "raw_item": 2958060216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Young Lion's Greaves": {
+      "ids": [
+        28,
+        107
+      ],
+      "goods_id": 5270300,
+      "raw_item": 2958060316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Young Lion's Armor (Altered)": {
+      "ids": [
+        60,
+        110
+      ],
+      "goods_id": 5271100,
+      "raw_item": 2958061116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Circlet of Light": {
+      "ids": [
+        192,
+        113
+      ],
+      "goods_id": 5272000,
+      "raw_item": 2958062016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Shadow Militiaman Helm": {
+      "ids": [
+        0,
+        145
+      ],
+      "goods_id": 5280000,
+      "raw_item": 2958070016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Shadow Militiaman Armor": {
+      "ids": [
+        100,
+        145
+      ],
+      "goods_id": 5280100,
+      "raw_item": 2958070116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Shadow Militiaman Gauntlets": {
+      "ids": [
+        200,
+        145
+      ],
+      "goods_id": 5280200,
+      "raw_item": 2958070216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Shadow Militiaman Greaves": {
+      "ids": [
+        44,
+        146
+      ],
+      "goods_id": 5280300,
+      "raw_item": 2958070316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Divine Beast Head": {
+      "ids": [
+        16,
+        184
+      ],
+      "goods_id": 5290000,
+      "raw_item": 2958080016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "St. Trina's Blossom": {
+      "ids": [
+        32,
+        223
+      ],
+      "goods_id": 5300000,
+      "raw_item": 2958090016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Crucible Hammer-Helm": {
+      "ids": [
+        48,
+        6
+      ],
+      "goods_id": 5310000,
+      "raw_item": 2958100016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Greatjar": {
+      "ids": [
+        64,
+        45
+      ],
+      "goods_id": 5320000,
+      "raw_item": 2958110016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    },
+    "Imp Head (Lion)": {
+      "ids": [
+        80,
+        84
+      ],
+      "goods_id": 5330000,
+      "raw_item": 2958120016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCArmor.txt"
+    }
+  },
+  "Ashes of War": {
+    "Ash of War: Dryleaf Whirlwind": {
+      "ids": [
+        64,
+        13
+      ],
+      "goods_id": 200000,
+      "raw_item": 2952990016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Aspects of the Crucible: Wings": {
+      "ids": [
+        164,
+        13
+      ],
+      "goods_id": 200100,
+      "raw_item": 2952990116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Spinning Gravity Thrust": {
+      "ids": [
+        128,
+        26
+      ],
+      "goods_id": 400000,
+      "raw_item": 2953190016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Palm Blast": {
+      "ids": [
+        104,
+        30
+      ],
+      "goods_id": 401000,
+      "raw_item": 2953191016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Piercing Throw": {
+      "ids": [
+        80,
+        34
+      ],
+      "goods_id": 402000,
+      "raw_item": 2953192016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Scattershot Throw": {
+      "ids": [
+        56,
+        38
+      ],
+      "goods_id": 403000,
+      "raw_item": 2953193016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Wall of Sparks": {
+      "ids": [
+        32,
+        42
+      ],
+      "goods_id": 404000,
+      "raw_item": 2953194016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Rolling Sparks": {
+      "ids": [
+        8,
+        46
+      ],
+      "goods_id": 405000,
+      "raw_item": 2953195016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Raging Beast": {
+      "ids": [
+        240,
+        49
+      ],
+      "goods_id": 406000,
+      "raw_item": 2953196016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Savage Claws": {
+      "ids": [
+        216,
+        53
+      ],
+      "goods_id": 407000,
+      "raw_item": 2953197016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Blind Spot": {
+      "ids": [
+        168,
+        61
+      ],
+      "goods_id": 409000,
+      "raw_item": 2953199016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Swift Slash": {
+      "ids": [
+        144,
+        65
+      ],
+      "goods_id": 410000,
+      "raw_item": 2953200016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Overhead Stance": {
+      "ids": [
+        120,
+        69
+      ],
+      "goods_id": 411000,
+      "raw_item": 2953201016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Wing Stance": {
+      "ids": [
+        96,
+        73
+      ],
+      "goods_id": 412000,
+      "raw_item": 2953202016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Blinkbolt": {
+      "ids": [
+        72,
+        77
+      ],
+      "goods_id": 413000,
+      "raw_item": 2953203016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Flame Skewer": {
+      "ids": [
+        48,
+        81
+      ],
+      "goods_id": 414000,
+      "raw_item": 2953204016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Savage Lion's Claw": {
+      "ids": [
+        24,
+        85
+      ],
+      "goods_id": 415000,
+      "raw_item": 2953205016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Divine Beast Frost Stomp": {
+      "ids": [
+        0,
+        89
+      ],
+      "goods_id": 416000,
+      "raw_item": 2953206016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Flame Spear": {
+      "ids": [
+        232,
+        92
+      ],
+      "goods_id": 417000,
+      "raw_item": 2953207016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Carian Sovereignty": {
+      "ids": [
+        208,
+        96
+      ],
+      "goods_id": 418000,
+      "raw_item": 2953208016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Shriek of Sorrow": {
+      "ids": [
+        184,
+        100
+      ],
+      "goods_id": 419000,
+      "raw_item": 2953209016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Ghostflame Call": {
+      "ids": [
+        112,
+        112
+      ],
+      "goods_id": 422000,
+      "raw_item": 2953212016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: The Poison Flower Blooms Twice": {
+      "ids": [
+        168,
+        180
+      ],
+      "goods_id": 505000,
+      "raw_item": 2953295016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Igon's Drake Hunt": {
+      "ids": [
+        160,
+        92
+      ],
+      "goods_id": 548000,
+      "raw_item": 2953338016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    },
+    "Ash of War: Shield Strike": {
+      "ids": [
+        0,
+        53
+      ],
+      "goods_id": 800000,
+      "raw_item": 2953590016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGems.txt"
+    }
+  },
+  "Magic": {
+    "Miriam's Vanishing": {
+      "ids": [
+        76,
+        149
+      ],
+      "goods_id": 2004300,
+      "raw_item": 2954794316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Glintblade Trio": {
+      "ids": [
+        86,
+        149
+      ],
+      "goods_id": 2004310,
+      "raw_item": 2954794326,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Rellana's Twin Moons": {
+      "ids": [
+        96,
+        149
+      ],
+      "goods_id": 2004320,
+      "raw_item": 2954794336,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Glintstone Nail": {
+      "ids": [
+        20,
+        150
+      ],
+      "goods_id": 2004500,
+      "raw_item": 2954794516,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Glintstone Nails": {
+      "ids": [
+        30,
+        150
+      ],
+      "goods_id": 2004510,
+      "raw_item": 2954794526,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Blades of Stone": {
+      "ids": [
+        220,
+        150
+      ],
+      "goods_id": 2004700,
+      "raw_item": 2954794716,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Gravitational Missile": {
+      "ids": [
+        230,
+        150
+      ],
+      "goods_id": 2004710,
+      "raw_item": 2954794726,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Mantle of Thorns": {
+      "ids": [
+        164,
+        151
+      ],
+      "goods_id": 2004900,
+      "raw_item": 2954794916,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Impenetrable Thorns": {
+      "ids": [
+        174,
+        151
+      ],
+      "goods_id": 2004910,
+      "raw_item": 2954794926,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Rings of Spectral Light": {
+      "ids": [
+        8,
+        152
+      ],
+      "goods_id": 2005000,
+      "raw_item": 2954795016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Vortex of Putrescence": {
+      "ids": [
+        184,
+        156
+      ],
+      "goods_id": 2006200,
+      "raw_item": 2954796216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Mass of Putrescence": {
+      "ids": [
+        194,
+        156
+      ],
+      "goods_id": 2006210,
+      "raw_item": 2954796226,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Furious Blade of Ansbach": {
+      "ids": [
+        28,
+        157
+      ],
+      "goods_id": 2006300,
+      "raw_item": 2954796316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Heal from Afar": {
+      "ids": [
+        128,
+        157
+      ],
+      "goods_id": 2006400,
+      "raw_item": 2954796416,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Aspects of the Crucible: Thorns": {
+      "ids": [
+        122,
+        158
+      ],
+      "goods_id": 2006650,
+      "raw_item": 2954796666,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Aspects of the Crucible: Bloom": {
+      "ids": [
+        132,
+        158
+      ],
+      "goods_id": 2006660,
+      "raw_item": 2954796676,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Minor Erdtree": {
+      "ids": [
+        142,
+        158
+      ],
+      "goods_id": 2006670,
+      "raw_item": 2954796686,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Land of Shadow": {
+      "ids": [
+        152,
+        158
+      ],
+      "goods_id": 2006680,
+      "raw_item": 2954796696,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Wrath from Afar": {
+      "ids": [
+        162,
+        158
+      ],
+      "goods_id": 2006690,
+      "raw_item": 2954796706,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Light of Miquella": {
+      "ids": [
+        172,
+        158
+      ],
+      "goods_id": 2006700,
+      "raw_item": 2954796716,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Multilayered Ring of Light": {
+      "ids": [
+        182,
+        158
+      ],
+      "goods_id": 2006710,
+      "raw_item": 2954796726,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Roar of Rugalea": {
+      "ids": [
+        16,
+        159
+      ],
+      "goods_id": 2006800,
+      "raw_item": 2954796816,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Knight's Lightning Spear": {
+      "ids": [
+        116,
+        159
+      ],
+      "goods_id": 2006900,
+      "raw_item": 2954796916,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Dragonbolt of Florissax": {
+      "ids": [
+        126,
+        159
+      ],
+      "goods_id": 2006910,
+      "raw_item": 2954796926,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Electrocharge": {
+      "ids": [
+        136,
+        159
+      ],
+      "goods_id": 2006920,
+      "raw_item": 2954796936,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Bayle's Tyranny": {
+      "ids": [
+        216,
+        159
+      ],
+      "goods_id": 2007000,
+      "raw_item": 2954797016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Bayle's Flame Lightning": {
+      "ids": [
+        226,
+        159
+      ],
+      "goods_id": 2007010,
+      "raw_item": 2954797026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Ghostflame Breath": {
+      "ids": [
+        236,
+        159
+      ],
+      "goods_id": 2007020,
+      "raw_item": 2954797036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Rotten Butterflies": {
+      "ids": [
+        160,
+        160
+      ],
+      "goods_id": 2007200,
+      "raw_item": 2954797216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Pest-Thread Spears": {
+      "ids": [
+        170,
+        160
+      ],
+      "goods_id": 2007210,
+      "raw_item": 2954797226,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Midra's Flame of Frenzy": {
+      "ids": [
+        4,
+        161
+      ],
+      "goods_id": 2007300,
+      "raw_item": 2954797316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Fleeting Microcosm": {
+      "ids": [
+        114,
+        161
+      ],
+      "goods_id": 2007410,
+      "raw_item": 2954797426,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Cherishing Fingers": {
+      "ids": [
+        124,
+        161
+      ],
+      "goods_id": 2007420,
+      "raw_item": 2954797436,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Watchful Spirit": {
+      "ids": [
+        48,
+        162
+      ],
+      "goods_id": 2007600,
+      "raw_item": 2954797616,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Golden Arcs": {
+      "ids": [
+        148,
+        162
+      ],
+      "goods_id": 2007700,
+      "raw_item": 2954797716,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Giant Golden Arc": {
+      "ids": [
+        158,
+        162
+      ],
+      "goods_id": 2007710,
+      "raw_item": 2954797726,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Spira": {
+      "ids": [
+        168,
+        162
+      ],
+      "goods_id": 2007720,
+      "raw_item": 2954797736,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Divine Beast Tornado": {
+      "ids": [
+        178,
+        162
+      ],
+      "goods_id": 2007730,
+      "raw_item": 2954797746,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Divine Bird Feathers": {
+      "ids": [
+        188,
+        162
+      ],
+      "goods_id": 2007740,
+      "raw_item": 2954797756,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Fire Serpent": {
+      "ids": [
+        248,
+        162
+      ],
+      "goods_id": 2007800,
+      "raw_item": 2954797816,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Rain of Fire": {
+      "ids": [
+        2,
+        163
+      ],
+      "goods_id": 2007810,
+      "raw_item": 2954797826,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    },
+    "Messmer's Orb": {
+      "ids": [
+        12,
+        163
+      ],
+      "goods_id": 2007820,
+      "raw_item": 2954797836,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMagic.txt"
+    }
+  },
+  "Talismans": {
+    "Perfumer's Talisman": {
+      "ids": [
+        172,
+        8
+      ],
+      "goods_id": 2220,
+      "raw_item": 2952792236,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Crimson Amber Medallion +3": {
+      "ids": [
+        88,
+        27
+      ],
+      "goods_id": 7000,
+      "raw_item": 2952797016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Cerulean Amber Medallion +3": {
+      "ids": [
+        98,
+        27
+      ],
+      "goods_id": 7010,
+      "raw_item": 2952797026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Viridian Amber Medallion +3": {
+      "ids": [
+        108,
+        27
+      ],
+      "goods_id": 7020,
+      "raw_item": 2952797036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Two-Headed Turtle Talisman": {
+      "ids": [
+        118,
+        27
+      ],
+      "goods_id": 7030,
+      "raw_item": 2952797046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Stalwart Horn Charm +2": {
+      "ids": [
+        128,
+        27
+      ],
+      "goods_id": 7040,
+      "raw_item": 2952797056,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Immunizing Horn Charm +2": {
+      "ids": [
+        138,
+        27
+      ],
+      "goods_id": 7050,
+      "raw_item": 2952797066,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Clarifying Horn Charm +2": {
+      "ids": [
+        148,
+        27
+      ],
+      "goods_id": 7060,
+      "raw_item": 2952797076,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Mottled Necklace +2": {
+      "ids": [
+        168,
+        27
+      ],
+      "goods_id": 7080,
+      "raw_item": 2952797096,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Spelldrake Talisman +3": {
+      "ids": [
+        178,
+        27
+      ],
+      "goods_id": 7090,
+      "raw_item": 2952797106,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Flamedrake Talisman +3": {
+      "ids": [
+        188,
+        27
+      ],
+      "goods_id": 7100,
+      "raw_item": 2952797116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Boltdrake Talisman +3": {
+      "ids": [
+        198,
+        27
+      ],
+      "goods_id": 7110,
+      "raw_item": 2952797126,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Golden Braid": {
+      "ids": [
+        208,
+        27
+      ],
+      "goods_id": 7120,
+      "raw_item": 2952797136,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Pearldrake Talisman +3": {
+      "ids": [
+        218,
+        27
+      ],
+      "goods_id": 7130,
+      "raw_item": 2952797146,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Crimson Seed Talisman +1": {
+      "ids": [
+        228,
+        27
+      ],
+      "goods_id": 7140,
+      "raw_item": 2952797156,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Cerulean Seed Talisman +1": {
+      "ids": [
+        238,
+        27
+      ],
+      "goods_id": 7150,
+      "raw_item": 2952797166,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Blessed Blue Dew Talisman": {
+      "ids": [
+        64,
+        31
+      ],
+      "goods_id": 8000,
+      "raw_item": 2952798016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Fine Crucible Feather Talisman": {
+      "ids": [
+        74,
+        31
+      ],
+      "goods_id": 8010,
+      "raw_item": 2952798026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Outer God Heirloom": {
+      "ids": [
+        84,
+        31
+      ],
+      "goods_id": 8020,
+      "raw_item": 2952798036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Shattered Stone Talisman": {
+      "ids": [
+        94,
+        31
+      ],
+      "goods_id": 8030,
+      "raw_item": 2952798046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Two-Handed Sword Talisman": {
+      "ids": [
+        104,
+        31
+      ],
+      "goods_id": 8040,
+      "raw_item": 2952798056,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Crusade Insignia": {
+      "ids": [
+        114,
+        31
+      ],
+      "goods_id": 8050,
+      "raw_item": 2952798066,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Aged One's Exultation": {
+      "ids": [
+        124,
+        31
+      ],
+      "goods_id": 8060,
+      "raw_item": 2952798076,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Arrow's Soaring Sting Talisman": {
+      "ids": [
+        134,
+        31
+      ],
+      "goods_id": 8070,
+      "raw_item": 2952798086,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Pearl Shield Talisman": {
+      "ids": [
+        154,
+        31
+      ],
+      "goods_id": 8090,
+      "raw_item": 2952798106,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Dried Bouquet": {
+      "ids": [
+        164,
+        31
+      ],
+      "goods_id": 8100,
+      "raw_item": 2952798116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Smithing Talisman": {
+      "ids": [
+        174,
+        31
+      ],
+      "goods_id": 8110,
+      "raw_item": 2952798126,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Ailment Talisman": {
+      "ids": [
+        184,
+        31
+      ],
+      "goods_id": 8120,
+      "raw_item": 2952798136,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Retaliatory Crossed-Tree": {
+      "ids": [
+        194,
+        31
+      ],
+      "goods_id": 8130,
+      "raw_item": 2952798146,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Lacerating Crossed-Tree": {
+      "ids": [
+        204,
+        31
+      ],
+      "goods_id": 8140,
+      "raw_item": 2952798156,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Sharpshot Talisman": {
+      "ids": [
+        214,
+        31
+      ],
+      "goods_id": 8150,
+      "raw_item": 2952798166,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "St. Trina's Smile": {
+      "ids": [
+        224,
+        31
+      ],
+      "goods_id": 8160,
+      "raw_item": 2952798176,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Talisman of the Dread": {
+      "ids": [
+        234,
+        31
+      ],
+      "goods_id": 8170,
+      "raw_item": 2952798186,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Enraged Divine Beast": {
+      "ids": [
+        244,
+        31
+      ],
+      "goods_id": 8180,
+      "raw_item": 2952798196,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Beloved Stardust": {
+      "ids": [
+        254,
+        31
+      ],
+      "goods_id": 8190,
+      "raw_item": 2952798206,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Talisman of Lord's Bestowal": {
+      "ids": [
+        8,
+        32
+      ],
+      "goods_id": 8200,
+      "raw_item": 2952798216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Verdigris Discus": {
+      "ids": [
+        18,
+        32
+      ],
+      "goods_id": 8210,
+      "raw_item": 2952798226,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Rellana's Cameo": {
+      "ids": [
+        28,
+        32
+      ],
+      "goods_id": 8220,
+      "raw_item": 2952798236,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Blade of Mercy": {
+      "ids": [
+        38,
+        32
+      ],
+      "goods_id": 8230,
+      "raw_item": 2952798246,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    },
+    "Talisman of All Crucibles": {
+      "ids": [
+        48,
+        32
+      ],
+      "goods_id": 8240,
+      "raw_item": 2952798256,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTalismans.txt"
+    }
+  },
+  "Spirit Ashes": {
+    "Curseblade Meera": {
+      "ids": [
+        192,
+        145
+      ],
+      "goods_id": 2200000,
+      "raw_item": 2954990016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +1": {
+      "ids": [
+        193,
+        145
+      ],
+      "goods_id": 2200001,
+      "raw_item": 2954990017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +2": {
+      "ids": [
+        194,
+        145
+      ],
+      "goods_id": 2200002,
+      "raw_item": 2954990018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +3": {
+      "ids": [
+        195,
+        145
+      ],
+      "goods_id": 2200003,
+      "raw_item": 2954990019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +4": {
+      "ids": [
+        196,
+        145
+      ],
+      "goods_id": 2200004,
+      "raw_item": 2954990020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +5": {
+      "ids": [
+        197,
+        145
+      ],
+      "goods_id": 2200005,
+      "raw_item": 2954990021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +6": {
+      "ids": [
+        198,
+        145
+      ],
+      "goods_id": 2200006,
+      "raw_item": 2954990022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +7": {
+      "ids": [
+        199,
+        145
+      ],
+      "goods_id": 2200007,
+      "raw_item": 2954990023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +8": {
+      "ids": [
+        200,
+        145
+      ],
+      "goods_id": 2200008,
+      "raw_item": 2954990024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +9": {
+      "ids": [
+        201,
+        145
+      ],
+      "goods_id": 2200009,
+      "raw_item": 2954990025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Curseblade Meera +10": {
+      "ids": [
+        202,
+        145
+      ],
+      "goods_id": 2200010,
+      "raw_item": 2954990026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes": {
+      "ids": [
+        168,
+        149
+      ],
+      "goods_id": 2201000,
+      "raw_item": 2954991016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +1": {
+      "ids": [
+        169,
+        149
+      ],
+      "goods_id": 2201001,
+      "raw_item": 2954991017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +2": {
+      "ids": [
+        170,
+        149
+      ],
+      "goods_id": 2201002,
+      "raw_item": 2954991018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +3": {
+      "ids": [
+        171,
+        149
+      ],
+      "goods_id": 2201003,
+      "raw_item": 2954991019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +4": {
+      "ids": [
+        172,
+        149
+      ],
+      "goods_id": 2201004,
+      "raw_item": 2954991020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +5": {
+      "ids": [
+        173,
+        149
+      ],
+      "goods_id": 2201005,
+      "raw_item": 2954991021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +6": {
+      "ids": [
+        174,
+        149
+      ],
+      "goods_id": 2201006,
+      "raw_item": 2954991022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +7": {
+      "ids": [
+        175,
+        149
+      ],
+      "goods_id": 2201007,
+      "raw_item": 2954991023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +8": {
+      "ids": [
+        176,
+        149
+      ],
+      "goods_id": 2201008,
+      "raw_item": 2954991024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +9": {
+      "ids": [
+        177,
+        149
+      ],
+      "goods_id": 2201009,
+      "raw_item": 2954991025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bloodfiend Hexer's Ashes +10": {
+      "ids": [
+        178,
+        149
+      ],
+      "goods_id": 2201010,
+      "raw_item": 2954991026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes": {
+      "ids": [
+        144,
+        153
+      ],
+      "goods_id": 2202000,
+      "raw_item": 2954992016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +1": {
+      "ids": [
+        145,
+        153
+      ],
+      "goods_id": 2202001,
+      "raw_item": 2954992017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +2": {
+      "ids": [
+        146,
+        153
+      ],
+      "goods_id": 2202002,
+      "raw_item": 2954992018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +3": {
+      "ids": [
+        147,
+        153
+      ],
+      "goods_id": 2202003,
+      "raw_item": 2954992019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +4": {
+      "ids": [
+        148,
+        153
+      ],
+      "goods_id": 2202004,
+      "raw_item": 2954992020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +5": {
+      "ids": [
+        149,
+        153
+      ],
+      "goods_id": 2202005,
+      "raw_item": 2954992021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +6": {
+      "ids": [
+        150,
+        153
+      ],
+      "goods_id": 2202006,
+      "raw_item": 2954992022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +7": {
+      "ids": [
+        151,
+        153
+      ],
+      "goods_id": 2202007,
+      "raw_item": 2954992023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +8": {
+      "ids": [
+        152,
+        153
+      ],
+      "goods_id": 2202008,
+      "raw_item": 2954992024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +9": {
+      "ids": [
+        153,
+        153
+      ],
+      "goods_id": 2202009,
+      "raw_item": 2954992025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Gravebird Ashes +10": {
+      "ids": [
+        154,
+        153
+      ],
+      "goods_id": 2202010,
+      "raw_item": 2954992026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde": {
+      "ids": [
+        120,
+        157
+      ],
+      "goods_id": 2203000,
+      "raw_item": 2954993016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +1": {
+      "ids": [
+        121,
+        157
+      ],
+      "goods_id": 2203001,
+      "raw_item": 2954993017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +2": {
+      "ids": [
+        122,
+        157
+      ],
+      "goods_id": 2203002,
+      "raw_item": 2954993018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +3": {
+      "ids": [
+        123,
+        157
+      ],
+      "goods_id": 2203003,
+      "raw_item": 2954993019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +4": {
+      "ids": [
+        124,
+        157
+      ],
+      "goods_id": 2203004,
+      "raw_item": 2954993020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +5": {
+      "ids": [
+        125,
+        157
+      ],
+      "goods_id": 2203005,
+      "raw_item": 2954993021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +6": {
+      "ids": [
+        126,
+        157
+      ],
+      "goods_id": 2203006,
+      "raw_item": 2954993022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +7": {
+      "ids": [
+        127,
+        157
+      ],
+      "goods_id": 2203007,
+      "raw_item": 2954993023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +8": {
+      "ids": [
+        128,
+        157
+      ],
+      "goods_id": 2203008,
+      "raw_item": 2954993024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +9": {
+      "ids": [
+        129,
+        157
+      ],
+      "goods_id": 2203009,
+      "raw_item": 2954993025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Hilde +10": {
+      "ids": [
+        130,
+        157
+      ],
+      "goods_id": 2203010,
+      "raw_item": 2954993026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes": {
+      "ids": [
+        96,
+        161
+      ],
+      "goods_id": 2204000,
+      "raw_item": 2954994016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +1": {
+      "ids": [
+        97,
+        161
+      ],
+      "goods_id": 2204001,
+      "raw_item": 2954994017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +2": {
+      "ids": [
+        98,
+        161
+      ],
+      "goods_id": 2204002,
+      "raw_item": 2954994018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +3": {
+      "ids": [
+        99,
+        161
+      ],
+      "goods_id": 2204003,
+      "raw_item": 2954994019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +4": {
+      "ids": [
+        100,
+        161
+      ],
+      "goods_id": 2204004,
+      "raw_item": 2954994020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +5": {
+      "ids": [
+        101,
+        161
+      ],
+      "goods_id": 2204005,
+      "raw_item": 2954994021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +6": {
+      "ids": [
+        102,
+        161
+      ],
+      "goods_id": 2204006,
+      "raw_item": 2954994022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +7": {
+      "ids": [
+        103,
+        161
+      ],
+      "goods_id": 2204007,
+      "raw_item": 2954994023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +8": {
+      "ids": [
+        104,
+        161
+      ],
+      "goods_id": 2204008,
+      "raw_item": 2954994024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +9": {
+      "ids": [
+        105,
+        161
+      ],
+      "goods_id": 2204009,
+      "raw_item": 2954994025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Spider Scorpion Ashes +10": {
+      "ids": [
+        106,
+        161
+      ],
+      "goods_id": 2204010,
+      "raw_item": 2954994026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes": {
+      "ids": [
+        72,
+        165
+      ],
+      "goods_id": 2205000,
+      "raw_item": 2954995016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +1": {
+      "ids": [
+        73,
+        165
+      ],
+      "goods_id": 2205001,
+      "raw_item": 2954995017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +2": {
+      "ids": [
+        74,
+        165
+      ],
+      "goods_id": 2205002,
+      "raw_item": 2954995018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +3": {
+      "ids": [
+        75,
+        165
+      ],
+      "goods_id": 2205003,
+      "raw_item": 2954995019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +4": {
+      "ids": [
+        76,
+        165
+      ],
+      "goods_id": 2205004,
+      "raw_item": 2954995020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +5": {
+      "ids": [
+        77,
+        165
+      ],
+      "goods_id": 2205005,
+      "raw_item": 2954995021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +6": {
+      "ids": [
+        78,
+        165
+      ],
+      "goods_id": 2205006,
+      "raw_item": 2954995022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +7": {
+      "ids": [
+        79,
+        165
+      ],
+      "goods_id": 2205007,
+      "raw_item": 2954995023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +8": {
+      "ids": [
+        80,
+        165
+      ],
+      "goods_id": 2205008,
+      "raw_item": 2954995024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +9": {
+      "ids": [
+        81,
+        165
+      ],
+      "goods_id": 2205009,
+      "raw_item": 2954995025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Inquisitor Ashes +10": {
+      "ids": [
+        82,
+        165
+      ],
+      "goods_id": 2205010,
+      "raw_item": 2954995026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh": {
+      "ids": [
+        48,
+        169
+      ],
+      "goods_id": 2206000,
+      "raw_item": 2954996016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +1": {
+      "ids": [
+        49,
+        169
+      ],
+      "goods_id": 2206001,
+      "raw_item": 2954996017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +2": {
+      "ids": [
+        50,
+        169
+      ],
+      "goods_id": 2206002,
+      "raw_item": 2954996018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +3": {
+      "ids": [
+        51,
+        169
+      ],
+      "goods_id": 2206003,
+      "raw_item": 2954996019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +4": {
+      "ids": [
+        52,
+        169
+      ],
+      "goods_id": 2206004,
+      "raw_item": 2954996020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +5": {
+      "ids": [
+        53,
+        169
+      ],
+      "goods_id": 2206005,
+      "raw_item": 2954996021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +6": {
+      "ids": [
+        54,
+        169
+      ],
+      "goods_id": 2206006,
+      "raw_item": 2954996022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +7": {
+      "ids": [
+        55,
+        169
+      ],
+      "goods_id": 2206007,
+      "raw_item": 2954996023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +8": {
+      "ids": [
+        56,
+        169
+      ],
+      "goods_id": 2206008,
+      "raw_item": 2954996024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +9": {
+      "ids": [
+        57,
+        169
+      ],
+      "goods_id": 2206009,
+      "raw_item": 2954996025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Demi-Human Swordsman Yosh +10": {
+      "ids": [
+        58,
+        169
+      ],
+      "goods_id": 2206010,
+      "raw_item": 2954996026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes": {
+      "ids": [
+        24,
+        173
+      ],
+      "goods_id": 2207000,
+      "raw_item": 2954997016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +1": {
+      "ids": [
+        25,
+        173
+      ],
+      "goods_id": 2207001,
+      "raw_item": 2954997017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +2": {
+      "ids": [
+        26,
+        173
+      ],
+      "goods_id": 2207002,
+      "raw_item": 2954997018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +3": {
+      "ids": [
+        27,
+        173
+      ],
+      "goods_id": 2207003,
+      "raw_item": 2954997019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +4": {
+      "ids": [
+        28,
+        173
+      ],
+      "goods_id": 2207004,
+      "raw_item": 2954997020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +5": {
+      "ids": [
+        29,
+        173
+      ],
+      "goods_id": 2207005,
+      "raw_item": 2954997021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +6": {
+      "ids": [
+        30,
+        173
+      ],
+      "goods_id": 2207006,
+      "raw_item": 2954997022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +7": {
+      "ids": [
+        31,
+        173
+      ],
+      "goods_id": 2207007,
+      "raw_item": 2954997023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +8": {
+      "ids": [
+        32,
+        173
+      ],
+      "goods_id": 2207008,
+      "raw_item": 2954997024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +9": {
+      "ids": [
+        33,
+        173
+      ],
+      "goods_id": 2207009,
+      "raw_item": 2954997025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Messmer Soldier Ashes +10": {
+      "ids": [
+        34,
+        173
+      ],
+      "goods_id": 2207010,
+      "raw_item": 2954997026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas": {
+      "ids": [
+        0,
+        177
+      ],
+      "goods_id": 2208000,
+      "raw_item": 2954998016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +1": {
+      "ids": [
+        1,
+        177
+      ],
+      "goods_id": 2208001,
+      "raw_item": 2954998017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +2": {
+      "ids": [
+        2,
+        177
+      ],
+      "goods_id": 2208002,
+      "raw_item": 2954998018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +3": {
+      "ids": [
+        3,
+        177
+      ],
+      "goods_id": 2208003,
+      "raw_item": 2954998019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +4": {
+      "ids": [
+        4,
+        177
+      ],
+      "goods_id": 2208004,
+      "raw_item": 2954998020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +5": {
+      "ids": [
+        5,
+        177
+      ],
+      "goods_id": 2208005,
+      "raw_item": 2954998021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +6": {
+      "ids": [
+        6,
+        177
+      ],
+      "goods_id": 2208006,
+      "raw_item": 2954998022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +7": {
+      "ids": [
+        7,
+        177
+      ],
+      "goods_id": 2208007,
+      "raw_item": 2954998023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +8": {
+      "ids": [
+        8,
+        177
+      ],
+      "goods_id": 2208008,
+      "raw_item": 2954998024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +9": {
+      "ids": [
+        9,
+        177
+      ],
+      "goods_id": 2208009,
+      "raw_item": 2954998025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Commander Andreas +10": {
+      "ids": [
+        10,
+        177
+      ],
+      "goods_id": 2208010,
+      "raw_item": 2954998026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw": {
+      "ids": [
+        232,
+        180
+      ],
+      "goods_id": 2209000,
+      "raw_item": 2954999016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +1": {
+      "ids": [
+        233,
+        180
+      ],
+      "goods_id": 2209001,
+      "raw_item": 2954999017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +2": {
+      "ids": [
+        234,
+        180
+      ],
+      "goods_id": 2209002,
+      "raw_item": 2954999018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +3": {
+      "ids": [
+        235,
+        180
+      ],
+      "goods_id": 2209003,
+      "raw_item": 2954999019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +4": {
+      "ids": [
+        236,
+        180
+      ],
+      "goods_id": 2209004,
+      "raw_item": 2954999020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +5": {
+      "ids": [
+        237,
+        180
+      ],
+      "goods_id": 2209005,
+      "raw_item": 2954999021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +6": {
+      "ids": [
+        238,
+        180
+      ],
+      "goods_id": 2209006,
+      "raw_item": 2954999022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +7": {
+      "ids": [
+        239,
+        180
+      ],
+      "goods_id": 2209007,
+      "raw_item": 2954999023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +8": {
+      "ids": [
+        240,
+        180
+      ],
+      "goods_id": 2209008,
+      "raw_item": 2954999024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +9": {
+      "ids": [
+        241,
+        180
+      ],
+      "goods_id": 2209009,
+      "raw_item": 2954999025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Black Knight Captain Huw +10": {
+      "ids": [
+        242,
+        180
+      ],
+      "goods_id": 2209010,
+      "raw_item": 2954999026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes": {
+      "ids": [
+        208,
+        184
+      ],
+      "goods_id": 2210000,
+      "raw_item": 2955000016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +1": {
+      "ids": [
+        209,
+        184
+      ],
+      "goods_id": 2210001,
+      "raw_item": 2955000017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +2": {
+      "ids": [
+        210,
+        184
+      ],
+      "goods_id": 2210002,
+      "raw_item": 2955000018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +3": {
+      "ids": [
+        211,
+        184
+      ],
+      "goods_id": 2210003,
+      "raw_item": 2955000019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +4": {
+      "ids": [
+        212,
+        184
+      ],
+      "goods_id": 2210004,
+      "raw_item": 2955000020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +5": {
+      "ids": [
+        213,
+        184
+      ],
+      "goods_id": 2210005,
+      "raw_item": 2955000021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +6": {
+      "ids": [
+        214,
+        184
+      ],
+      "goods_id": 2210006,
+      "raw_item": 2955000022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +7": {
+      "ids": [
+        215,
+        184
+      ],
+      "goods_id": 2210007,
+      "raw_item": 2955000023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +8": {
+      "ids": [
+        216,
+        184
+      ],
+      "goods_id": 2210008,
+      "raw_item": 2955000024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +9": {
+      "ids": [
+        217,
+        184
+      ],
+      "goods_id": 2210009,
+      "raw_item": 2955000025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Bigmouth Imp Ashes +10": {
+      "ids": [
+        218,
+        184
+      ],
+      "goods_id": 2210010,
+      "raw_item": 2955000026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes": {
+      "ids": [
+        184,
+        188
+      ],
+      "goods_id": 2211000,
+      "raw_item": 2955001016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +1": {
+      "ids": [
+        185,
+        188
+      ],
+      "goods_id": 2211001,
+      "raw_item": 2955001017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +2": {
+      "ids": [
+        186,
+        188
+      ],
+      "goods_id": 2211002,
+      "raw_item": 2955001018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +3": {
+      "ids": [
+        187,
+        188
+      ],
+      "goods_id": 2211003,
+      "raw_item": 2955001019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +4": {
+      "ids": [
+        188,
+        188
+      ],
+      "goods_id": 2211004,
+      "raw_item": 2955001020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +5": {
+      "ids": [
+        189,
+        188
+      ],
+      "goods_id": 2211005,
+      "raw_item": 2955001021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +6": {
+      "ids": [
+        190,
+        188
+      ],
+      "goods_id": 2211006,
+      "raw_item": 2955001022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +7": {
+      "ids": [
+        191,
+        188
+      ],
+      "goods_id": 2211007,
+      "raw_item": 2955001023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +8": {
+      "ids": [
+        192,
+        188
+      ],
+      "goods_id": 2211008,
+      "raw_item": 2955001024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +9": {
+      "ids": [
+        193,
+        188
+      ],
+      "goods_id": 2211009,
+      "raw_item": 2955001025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Man-Fly Ashes +10": {
+      "ids": [
+        194,
+        188
+      ],
+      "goods_id": 2211010,
+      "raw_item": 2955001026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith": {
+      "ids": [
+        160,
+        192
+      ],
+      "goods_id": 2212000,
+      "raw_item": 2955002016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +1": {
+      "ids": [
+        161,
+        192
+      ],
+      "goods_id": 2212001,
+      "raw_item": 2955002017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +2": {
+      "ids": [
+        162,
+        192
+      ],
+      "goods_id": 2212002,
+      "raw_item": 2955002018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +3": {
+      "ids": [
+        163,
+        192
+      ],
+      "goods_id": 2212003,
+      "raw_item": 2955002019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +4": {
+      "ids": [
+        164,
+        192
+      ],
+      "goods_id": 2212004,
+      "raw_item": 2955002020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +5": {
+      "ids": [
+        165,
+        192
+      ],
+      "goods_id": 2212005,
+      "raw_item": 2955002021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +6": {
+      "ids": [
+        166,
+        192
+      ],
+      "goods_id": 2212006,
+      "raw_item": 2955002022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +7": {
+      "ids": [
+        167,
+        192
+      ],
+      "goods_id": 2212007,
+      "raw_item": 2955002023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +8": {
+      "ids": [
+        168,
+        192
+      ],
+      "goods_id": 2212008,
+      "raw_item": 2955002024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +9": {
+      "ids": [
+        169,
+        192
+      ],
+      "goods_id": 2212009,
+      "raw_item": 2955002025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Taylew the Golem Smith +10": {
+      "ids": [
+        170,
+        192
+      ],
+      "goods_id": 2212010,
+      "raw_item": 2955002026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis": {
+      "ids": [
+        136,
+        196
+      ],
+      "goods_id": 2213000,
+      "raw_item": 2955003016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +1": {
+      "ids": [
+        137,
+        196
+      ],
+      "goods_id": 2213001,
+      "raw_item": 2955003017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +2": {
+      "ids": [
+        138,
+        196
+      ],
+      "goods_id": 2213002,
+      "raw_item": 2955003018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +3": {
+      "ids": [
+        139,
+        196
+      ],
+      "goods_id": 2213003,
+      "raw_item": 2955003019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +4": {
+      "ids": [
+        140,
+        196
+      ],
+      "goods_id": 2213004,
+      "raw_item": 2955003020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +5": {
+      "ids": [
+        141,
+        196
+      ],
+      "goods_id": 2213005,
+      "raw_item": 2955003021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +6": {
+      "ids": [
+        142,
+        196
+      ],
+      "goods_id": 2213006,
+      "raw_item": 2955003022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +7": {
+      "ids": [
+        143,
+        196
+      ],
+      "goods_id": 2213007,
+      "raw_item": 2955003023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +8": {
+      "ids": [
+        144,
+        196
+      ],
+      "goods_id": 2213008,
+      "raw_item": 2955003024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +9": {
+      "ids": [
+        145,
+        196
+      ],
+      "goods_id": 2213009,
+      "raw_item": 2955003025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Divine Bird Warrior Ornis +10": {
+      "ids": [
+        146,
+        196
+      ],
+      "goods_id": 2213010,
+      "raw_item": 2955003026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes": {
+      "ids": [
+        112,
+        200
+      ],
+      "goods_id": 2214000,
+      "raw_item": 2955004016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +1": {
+      "ids": [
+        113,
+        200
+      ],
+      "goods_id": 2214001,
+      "raw_item": 2955004017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +2": {
+      "ids": [
+        114,
+        200
+      ],
+      "goods_id": 2214002,
+      "raw_item": 2955004018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +3": {
+      "ids": [
+        115,
+        200
+      ],
+      "goods_id": 2214003,
+      "raw_item": 2955004019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +4": {
+      "ids": [
+        116,
+        200
+      ],
+      "goods_id": 2214004,
+      "raw_item": 2955004020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +5": {
+      "ids": [
+        117,
+        200
+      ],
+      "goods_id": 2214005,
+      "raw_item": 2955004021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +6": {
+      "ids": [
+        118,
+        200
+      ],
+      "goods_id": 2214006,
+      "raw_item": 2955004022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +7": {
+      "ids": [
+        119,
+        200
+      ],
+      "goods_id": 2214007,
+      "raw_item": 2955004023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +8": {
+      "ids": [
+        120,
+        200
+      ],
+      "goods_id": 2214008,
+      "raw_item": 2955004024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +9": {
+      "ids": [
+        121,
+        200
+      ],
+      "goods_id": 2214009,
+      "raw_item": 2955004025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Horned Warrior Ashes +10": {
+      "ids": [
+        122,
+        200
+      ],
+      "goods_id": 2214010,
+      "raw_item": 2955004026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax": {
+      "ids": [
+        88,
+        204
+      ],
+      "goods_id": 2215000,
+      "raw_item": 2955005016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +1": {
+      "ids": [
+        89,
+        204
+      ],
+      "goods_id": 2215001,
+      "raw_item": 2955005017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +2": {
+      "ids": [
+        90,
+        204
+      ],
+      "goods_id": 2215002,
+      "raw_item": 2955005018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +3": {
+      "ids": [
+        91,
+        204
+      ],
+      "goods_id": 2215003,
+      "raw_item": 2955005019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +4": {
+      "ids": [
+        92,
+        204
+      ],
+      "goods_id": 2215004,
+      "raw_item": 2955005020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +5": {
+      "ids": [
+        93,
+        204
+      ],
+      "goods_id": 2215005,
+      "raw_item": 2955005021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +6": {
+      "ids": [
+        94,
+        204
+      ],
+      "goods_id": 2215006,
+      "raw_item": 2955005022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +7": {
+      "ids": [
+        95,
+        204
+      ],
+      "goods_id": 2215007,
+      "raw_item": 2955005023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +8": {
+      "ids": [
+        96,
+        204
+      ],
+      "goods_id": 2215008,
+      "raw_item": 2955005024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +9": {
+      "ids": [
+        97,
+        204
+      ],
+      "goods_id": 2215009,
+      "raw_item": 2955005025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Ancient Dragon Florissax +10": {
+      "ids": [
+        98,
+        204
+      ],
+      "goods_id": 2215010,
+      "raw_item": 2955005026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes": {
+      "ids": [
+        40,
+        212
+      ],
+      "goods_id": 2217000,
+      "raw_item": 2955007016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +1": {
+      "ids": [
+        41,
+        212
+      ],
+      "goods_id": 2217001,
+      "raw_item": 2955007017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +2": {
+      "ids": [
+        42,
+        212
+      ],
+      "goods_id": 2217002,
+      "raw_item": 2955007018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +3": {
+      "ids": [
+        43,
+        212
+      ],
+      "goods_id": 2217003,
+      "raw_item": 2955007019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +4": {
+      "ids": [
+        44,
+        212
+      ],
+      "goods_id": 2217004,
+      "raw_item": 2955007020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +5": {
+      "ids": [
+        45,
+        212
+      ],
+      "goods_id": 2217005,
+      "raw_item": 2955007021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +6": {
+      "ids": [
+        46,
+        212
+      ],
+      "goods_id": 2217006,
+      "raw_item": 2955007022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +7": {
+      "ids": [
+        47,
+        212
+      ],
+      "goods_id": 2217007,
+      "raw_item": 2955007023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +8": {
+      "ids": [
+        48,
+        212
+      ],
+      "goods_id": 2217008,
+      "raw_item": 2955007024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +9": {
+      "ids": [
+        49,
+        212
+      ],
+      "goods_id": 2217009,
+      "raw_item": 2955007025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fingercreeper Ashes +10": {
+      "ids": [
+        50,
+        212
+      ],
+      "goods_id": 2217010,
+      "raw_item": 2955007026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign": {
+      "ids": [
+        16,
+        216
+      ],
+      "goods_id": 2218000,
+      "raw_item": 2955008016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +1": {
+      "ids": [
+        17,
+        216
+      ],
+      "goods_id": 2218001,
+      "raw_item": 2955008017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +2": {
+      "ids": [
+        18,
+        216
+      ],
+      "goods_id": 2218002,
+      "raw_item": 2955008018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +3": {
+      "ids": [
+        19,
+        216
+      ],
+      "goods_id": 2218003,
+      "raw_item": 2955008019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +4": {
+      "ids": [
+        20,
+        216
+      ],
+      "goods_id": 2218004,
+      "raw_item": 2955008020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +5": {
+      "ids": [
+        21,
+        216
+      ],
+      "goods_id": 2218005,
+      "raw_item": 2955008021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +6": {
+      "ids": [
+        22,
+        216
+      ],
+      "goods_id": 2218006,
+      "raw_item": 2955008022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +7": {
+      "ids": [
+        23,
+        216
+      ],
+      "goods_id": 2218007,
+      "raw_item": 2955008023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +8": {
+      "ids": [
+        24,
+        216
+      ],
+      "goods_id": 2218008,
+      "raw_item": 2955008024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +9": {
+      "ids": [
+        25,
+        216
+      ],
+      "goods_id": 2218009,
+      "raw_item": 2955008025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Fire Knight Queelign +10": {
+      "ids": [
+        26,
+        216
+      ],
+      "goods_id": 2218010,
+      "raw_item": 2955008026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán": {
+      "ids": [
+        248,
+        219
+      ],
+      "goods_id": 2219000,
+      "raw_item": 2955009016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +1": {
+      "ids": [
+        249,
+        219
+      ],
+      "goods_id": 2219001,
+      "raw_item": 2955009017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +2": {
+      "ids": [
+        250,
+        219
+      ],
+      "goods_id": 2219002,
+      "raw_item": 2955009018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +3": {
+      "ids": [
+        251,
+        219
+      ],
+      "goods_id": 2219003,
+      "raw_item": 2955009019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +4": {
+      "ids": [
+        252,
+        219
+      ],
+      "goods_id": 2219004,
+      "raw_item": 2955009020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +5": {
+      "ids": [
+        253,
+        219
+      ],
+      "goods_id": 2219005,
+      "raw_item": 2955009021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +6": {
+      "ids": [
+        254,
+        219
+      ],
+      "goods_id": 2219006,
+      "raw_item": 2955009022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +7": {
+      "ids": [
+        255,
+        219
+      ],
+      "goods_id": 2219007,
+      "raw_item": 2955009023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +8": {
+      "ids": [
+        0,
+        220
+      ],
+      "goods_id": 2219008,
+      "raw_item": 2955009024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +9": {
+      "ids": [
+        1,
+        220
+      ],
+      "goods_id": 2219009,
+      "raw_item": 2955009025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Swordhand of Night Jolán +10": {
+      "ids": [
+        2,
+        220
+      ],
+      "goods_id": 2219010,
+      "raw_item": 2955009026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna": {
+      "ids": [
+        224,
+        223
+      ],
+      "goods_id": 2220000,
+      "raw_item": 2955010016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +1": {
+      "ids": [
+        225,
+        223
+      ],
+      "goods_id": 2220001,
+      "raw_item": 2955010017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +2": {
+      "ids": [
+        226,
+        223
+      ],
+      "goods_id": 2220002,
+      "raw_item": 2955010018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +3": {
+      "ids": [
+        227,
+        223
+      ],
+      "goods_id": 2220003,
+      "raw_item": 2955010019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +4": {
+      "ids": [
+        228,
+        223
+      ],
+      "goods_id": 2220004,
+      "raw_item": 2955010020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +5": {
+      "ids": [
+        229,
+        223
+      ],
+      "goods_id": 2220005,
+      "raw_item": 2955010021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +6": {
+      "ids": [
+        230,
+        223
+      ],
+      "goods_id": 2220006,
+      "raw_item": 2955010022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +7": {
+      "ids": [
+        231,
+        223
+      ],
+      "goods_id": 2220007,
+      "raw_item": 2955010023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +8": {
+      "ids": [
+        232,
+        223
+      ],
+      "goods_id": 2220008,
+      "raw_item": 2955010024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +9": {
+      "ids": [
+        233,
+        223
+      ],
+      "goods_id": 2220009,
+      "raw_item": 2955010025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    },
+    "Jolán and Anna +10": {
+      "ids": [
+        234,
+        223
+      ],
+      "goods_id": 2220010,
+      "raw_item": 2955010026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAshes.txt"
+    }
+  },
+  "Consumables": {
+    "Hefty Fire Pot": {
+      "ids": [
+        172,
+        133
+      ],
+      "goods_id": 2000300,
+      "raw_item": 2954790316,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Rock Pot": {
+      "ids": [
+        182,
+        133
+      ],
+      "goods_id": 2000310,
+      "raw_item": 2954790326,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Lightning Pot": {
+      "ids": [
+        192,
+        133
+      ],
+      "goods_id": 2000320,
+      "raw_item": 2954790336,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Fetid Pot": {
+      "ids": [
+        202,
+        133
+      ],
+      "goods_id": 2000330,
+      "raw_item": 2954790346,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Fly Pot": {
+      "ids": [
+        212,
+        133
+      ],
+      "goods_id": 2000340,
+      "raw_item": 2954790356,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Freezing Pot": {
+      "ids": [
+        232,
+        133
+      ],
+      "goods_id": 2000360,
+      "raw_item": 2954790376,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Oil Pot": {
+      "ids": [
+        252,
+        133
+      ],
+      "goods_id": 2000380,
+      "raw_item": 2954790396,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Volcano Pot": {
+      "ids": [
+        216,
+        134
+      ],
+      "goods_id": 2000600,
+      "raw_item": 2954790616,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Frenzied Flame Pot": {
+      "ids": [
+        236,
+        134
+      ],
+      "goods_id": 2000620,
+      "raw_item": 2954790636,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Rancor Pot": {
+      "ids": [
+        10,
+        135
+      ],
+      "goods_id": 2000650,
+      "raw_item": 2954790666,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Rot Pot": {
+      "ids": [
+        30,
+        135
+      ],
+      "goods_id": 2000670,
+      "raw_item": 2954790686,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Furnace Pot": {
+      "ids": [
+        40,
+        135
+      ],
+      "goods_id": 2000680,
+      "raw_item": 2954790696,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Frenzied Flame Pot": {
+      "ids": [
+        70,
+        135
+      ],
+      "goods_id": 2000710,
+      "raw_item": 2954790726,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Eternal Sleep Pot": {
+      "ids": [
+        100,
+        135
+      ],
+      "goods_id": 2000740,
+      "raw_item": 2954790756,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Roped Frenzied Flame Pot": {
+      "ids": [
+        120,
+        135
+      ],
+      "goods_id": 2000760,
+      "raw_item": 2954790776,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Poison Pot": {
+      "ids": [
+        242,
+        133
+      ],
+      "goods_id": 2000370,
+      "raw_item": 2954790386,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Magic Pot": {
+      "ids": [
+        20,
+        135
+      ],
+      "goods_id": 2000660,
+      "raw_item": 2954790676,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Hefty Red Lightning Pot": {
+      "ids": [
+        50,
+        135
+      ],
+      "goods_id": 2000690,
+      "raw_item": 2954790706,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Red Lightning Pot": {
+      "ids": [
+        60,
+        135
+      ],
+      "goods_id": 2000700,
+      "raw_item": 2954790716,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Fireproof Pickled Liver": {
+      "ids": [
+        234,
+        136
+      ],
+      "goods_id": 2001130,
+      "raw_item": 2954791146,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Lightningproof Pickled Liver": {
+      "ids": [
+        244,
+        136
+      ],
+      "goods_id": 2001140,
+      "raw_item": 2954791156,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Sacred Bloody Flesh": {
+      "ids": [
+        58,
+        137
+      ],
+      "goods_id": 2001210,
+      "raw_item": 2954791226,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Royal Magic Grease": {
+      "ids": [
+        12,
+        138
+      ],
+      "goods_id": 2001420,
+      "raw_item": 2954791436,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Drawstring Royal Magic Grease": {
+      "ids": [
+        112,
+        138
+      ],
+      "goods_id": 2001520,
+      "raw_item": 2954791536,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Iris of Occultation": {
+      "ids": [
+        210,
+        140
+      ],
+      "goods_id": 2002130,
+      "raw_item": 2954792146,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Spirit Raisin": {
+      "ids": [
+        160,
+        135
+      ],
+      "goods_id": 2000800,
+      "raw_item": 2954790816,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Blessing of Marika": {
+      "ids": [
+        4,
+        136
+      ],
+      "goods_id": 2000900,
+      "raw_item": 2954790916,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Lulling Branch": {
+      "ids": [
+        14,
+        136
+      ],
+      "goods_id": 2000910,
+      "raw_item": 2954790926,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Dragon Communion Flesh": {
+      "ids": [
+        204,
+        136
+      ],
+      "goods_id": 2001100,
+      "raw_item": 2954791116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Dragonscale Flesh": {
+      "ids": [
+        209,
+        136
+      ],
+      "goods_id": 2001105,
+      "raw_item": 2954791121,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Fingerprint Nostrum": {
+      "ids": [
+        214,
+        136
+      ],
+      "goods_id": 2001110,
+      "raw_item": 2954791126,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Spellproof Pickled Liver": {
+      "ids": [
+        224,
+        136
+      ],
+      "goods_id": 2001120,
+      "raw_item": 2954791136,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Holyproof Pickled Liver": {
+      "ids": [
+        254,
+        136
+      ],
+      "goods_id": 2001150,
+      "raw_item": 2954791166,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Opaline Pickled Liver": {
+      "ids": [
+        8,
+        137
+      ],
+      "goods_id": 2001160,
+      "raw_item": 2954791176,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Well-Pickled Turtle Neck": {
+      "ids": [
+        18,
+        137
+      ],
+      "goods_id": 2001170,
+      "raw_item": 2954791186,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Scorpion Stew": {
+      "ids": [
+        50,
+        137
+      ],
+      "goods_id": 2001202,
+      "raw_item": 2954791218,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Gourmet Scorpion Stew": {
+      "ids": [
+        51,
+        137
+      ],
+      "goods_id": 2001203,
+      "raw_item": 2954791219,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Silver Horn Tender": {
+      "ids": [
+        68,
+        137
+      ],
+      "goods_id": 2001220,
+      "raw_item": 2954791236,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Golden Horn Tender": {
+      "ids": [
+        78,
+        137
+      ],
+      "goods_id": 2001230,
+      "raw_item": 2954791246,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Messmerfire Grease": {
+      "ids": [
+        248,
+        137
+      ],
+      "goods_id": 2001400,
+      "raw_item": 2954791416,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Dragonbolt Grease": {
+      "ids": [
+        2,
+        138
+      ],
+      "goods_id": 2001410,
+      "raw_item": 2954791426,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Golden Grease": {
+      "ids": [
+        22,
+        138
+      ],
+      "goods_id": 2001430,
+      "raw_item": 2954791446,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Eternal Sleep Grease": {
+      "ids": [
+        42,
+        138
+      ],
+      "goods_id": 2001450,
+      "raw_item": 2954791466,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Dragon Communion Grease": {
+      "ids": [
+        72,
+        138
+      ],
+      "goods_id": 2001480,
+      "raw_item": 2954791496,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Drawstring Messmerfire Grease": {
+      "ids": [
+        92,
+        138
+      ],
+      "goods_id": 2001500,
+      "raw_item": 2954791516,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Drawstring Dragonbolt Grease": {
+      "ids": [
+        102,
+        138
+      ],
+      "goods_id": 2001510,
+      "raw_item": 2954791526,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Drawstring Golden Grease": {
+      "ids": [
+        122,
+        138
+      ],
+      "goods_id": 2001530,
+      "raw_item": 2954791546,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Drawstring Eternal Sleep Grease": {
+      "ids": [
+        142,
+        138
+      ],
+      "goods_id": 2001550,
+      "raw_item": 2954791566,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Festive Grease": {
+      "ids": [
+        192,
+        138
+      ],
+      "goods_id": 2001600,
+      "raw_item": 2954791616,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Innard Meat": {
+      "ids": [
+        36,
+        139
+      ],
+      "goods_id": 2001700,
+      "raw_item": 2954791716,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Dragon Communion Harpoon": {
+      "ids": [
+        46,
+        139
+      ],
+      "goods_id": 2001710,
+      "raw_item": 2954791726,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Polter Stone": {
+      "ids": [
+        80,
+        140
+      ],
+      "goods_id": 2002000,
+      "raw_item": 2954792016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Rock Heart": {
+      "ids": [
+        90,
+        140
+      ],
+      "goods_id": 2002010,
+      "raw_item": 2954792026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Priestess Heart": {
+      "ids": [
+        100,
+        140
+      ],
+      "goods_id": 2002020,
+      "raw_item": 2954792036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Lamenter's Mask": {
+      "ids": [
+        110,
+        140
+      ],
+      "goods_id": 2002030,
+      "raw_item": 2954792046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Ancient Dragon's Blessing": {
+      "ids": [
+        180,
+        140
+      ],
+      "goods_id": 2002100,
+      "raw_item": 2954792116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Iris of Grace": {
+      "ids": [
+        200,
+        140
+      ],
+      "goods_id": 2002120,
+      "raw_item": 2954792136,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Thiollier's Concoction": {
+      "ids": [
+        220,
+        140
+      ],
+      "goods_id": 2002140,
+      "raw_item": 2954792156,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Prattling Pate \"Lamentation\"": {
+      "ids": [
+        230,
+        140
+      ],
+      "goods_id": 2002150,
+      "raw_item": 2954792166,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Wild Boar Rider": {
+      "ids": [
+        212,
+        143
+      ],
+      "goods_id": 2002900,
+      "raw_item": 2954792916,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Impaler": {
+      "ids": [
+        213,
+        143
+      ],
+      "goods_id": 2002901,
+      "raw_item": 2954792917,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Shadow Sunflower": {
+      "ids": [
+        214,
+        143
+      ],
+      "goods_id": 2002902,
+      "raw_item": 2954792918,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Twin Moon Knight": {
+      "ids": [
+        215,
+        143
+      ],
+      "goods_id": 2002903,
+      "raw_item": 2954792919,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Saint of the Bud": {
+      "ids": [
+        216,
+        143
+      ],
+      "goods_id": 2002904,
+      "raw_item": 2954792920,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Dancing Lion": {
+      "ids": [
+        217,
+        143
+      ],
+      "goods_id": 2002905,
+      "raw_item": 2954792921,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of a God and a Lord": {
+      "ids": [
+        219,
+        143
+      ],
+      "goods_id": 2002907,
+      "raw_item": 2954792923,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Lord of Frenzied Flame": {
+      "ids": [
+        220,
+        143
+      ],
+      "goods_id": 2002908,
+      "raw_item": 2954792924,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of the Mother of Fingers": {
+      "ids": [
+        221,
+        143
+      ],
+      "goods_id": 2002909,
+      "raw_item": 2954792925,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Remembrance of Putrescence": {
+      "ids": [
+        222,
+        143
+      ],
+      "goods_id": 2002910,
+      "raw_item": 2954792926,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Leda's Rune": {
+      "ids": [
+        6,
+        144
+      ],
+      "goods_id": 2002950,
+      "raw_item": 2954792966,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Broken Rune": {
+      "ids": [
+        7,
+        144
+      ],
+      "goods_id": 2002951,
+      "raw_item": 2954792967,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [1]": {
+      "ids": [
+        8,
+        144
+      ],
+      "goods_id": 2002952,
+      "raw_item": 2954792968,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [2]": {
+      "ids": [
+        9,
+        144
+      ],
+      "goods_id": 2002953,
+      "raw_item": 2954792969,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [3]": {
+      "ids": [
+        10,
+        144
+      ],
+      "goods_id": 2002954,
+      "raw_item": 2954792970,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [4]": {
+      "ids": [
+        11,
+        144
+      ],
+      "goods_id": 2002955,
+      "raw_item": 2954792971,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [5]": {
+      "ids": [
+        12,
+        144
+      ],
+      "goods_id": 2002956,
+      "raw_item": 2954792972,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [6]": {
+      "ids": [
+        13,
+        144
+      ],
+      "goods_id": 2002957,
+      "raw_item": 2954792973,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Shadow Realm Rune [7]": {
+      "ids": [
+        14,
+        144
+      ],
+      "goods_id": 2002958,
+      "raw_item": 2954792974,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Rune of an Unsung Hero": {
+      "ids": [
+        15,
+        144
+      ],
+      "goods_id": 2002959,
+      "raw_item": 2954792975,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Marika's Rune": {
+      "ids": [
+        16,
+        144
+      ],
+      "goods_id": 2002960,
+      "raw_item": 2954792976,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Call of Tibia": {
+      "ids": [
+        206,
+        144
+      ],
+      "goods_id": 2003150,
+      "raw_item": 2954793166,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Surging Frenzied Flame": {
+      "ids": [
+        216,
+        144
+      ],
+      "goods_id": 2003160,
+      "raw_item": 2954793176,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Golden Vow": {
+      "ids": [
+        226,
+        144
+      ],
+      "goods_id": 2003170,
+      "raw_item": 2954793186,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Fire Coil": {
+      "ids": [
+        236,
+        144
+      ],
+      "goods_id": 2003180,
+      "raw_item": 2954793196,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Fire Spritestone": {
+      "ids": [
+        246,
+        144
+      ],
+      "goods_id": 2003190,
+      "raw_item": 2954793206,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Glinting Nail": {
+      "ids": [
+        0,
+        145
+      ],
+      "goods_id": 2003200,
+      "raw_item": 2954793216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Sunwarmth Stone": {
+      "ids": [
+        110,
+        145
+      ],
+      "goods_id": 2003310,
+      "raw_item": 2954793326,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    },
+    "Charming Branch": {
+      "ids": [
+        150,
+        145
+      ],
+      "goods_id": 2003350,
+      "raw_item": 2954793366,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCConsumables.txt"
+    }
+  },
+  "Cookbooks": {
+    "Forager Brood Cookbook [6]": {
+      "ids": [
+        213,
+        168
+      ],
+      "goods_id": 2009301,
+      "raw_item": 2954799317,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Forager Brood Cookbook [1]": {
+      "ids": [
+        214,
+        168
+      ],
+      "goods_id": 2009302,
+      "raw_item": 2954799318,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Forager Brood Cookbook [2]": {
+      "ids": [
+        215,
+        168
+      ],
+      "goods_id": 2009303,
+      "raw_item": 2954799319,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Forager Brood Cookbook [3]": {
+      "ids": [
+        216,
+        168
+      ],
+      "goods_id": 2009304,
+      "raw_item": 2954799320,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Forager Brood Cookbook [4]": {
+      "ids": [
+        217,
+        168
+      ],
+      "goods_id": 2009305,
+      "raw_item": 2954799321,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Forager Brood Cookbook [5]": {
+      "ids": [
+        218,
+        168
+      ],
+      "goods_id": 2009306,
+      "raw_item": 2954799322,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Igon's Cookbook [2]": {
+      "ids": [
+        219,
+        168
+      ],
+      "goods_id": 2009307,
+      "raw_item": 2954799323,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Finger-Weaver's Cookbook [2]": {
+      "ids": [
+        220,
+        168
+      ],
+      "goods_id": 2009308,
+      "raw_item": 2954799324,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [1]": {
+      "ids": [
+        221,
+        168
+      ],
+      "goods_id": 2009309,
+      "raw_item": 2954799325,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [4]": {
+      "ids": [
+        222,
+        168
+      ],
+      "goods_id": 2009310,
+      "raw_item": 2954799326,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [5]": {
+      "ids": [
+        223,
+        168
+      ],
+      "goods_id": 2009311,
+      "raw_item": 2954799327,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [12]": {
+      "ids": [
+        224,
+        168
+      ],
+      "goods_id": 2009312,
+      "raw_item": 2954799328,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [7]": {
+      "ids": [
+        225,
+        168
+      ],
+      "goods_id": 2009313,
+      "raw_item": 2954799329,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [9]": {
+      "ids": [
+        226,
+        168
+      ],
+      "goods_id": 2009314,
+      "raw_item": 2954799330,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [10]": {
+      "ids": [
+        227,
+        168
+      ],
+      "goods_id": 2009315,
+      "raw_item": 2954799331,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [11]": {
+      "ids": [
+        228,
+        168
+      ],
+      "goods_id": 2009316,
+      "raw_item": 2954799332,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Mad Craftsman's Cookbook [2]": {
+      "ids": [
+        229,
+        168
+      ],
+      "goods_id": 2009317,
+      "raw_item": 2954799333,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [8]": {
+      "ids": [
+        230,
+        168
+      ],
+      "goods_id": 2009318,
+      "raw_item": 2954799334,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [3]": {
+      "ids": [
+        231,
+        168
+      ],
+      "goods_id": 2009319,
+      "raw_item": 2954799335,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [13]": {
+      "ids": [
+        232,
+        168
+      ],
+      "goods_id": 2009320,
+      "raw_item": 2954799336,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [14]": {
+      "ids": [
+        233,
+        168
+      ],
+      "goods_id": 2009321,
+      "raw_item": 2954799337,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [6]": {
+      "ids": [
+        234,
+        168
+      ],
+      "goods_id": 2009322,
+      "raw_item": 2954799338,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Greater Potentate's Cookbook [2]": {
+      "ids": [
+        235,
+        168
+      ],
+      "goods_id": 2009323,
+      "raw_item": 2954799339,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Ancient Dragon Knight's Cookbook [1]": {
+      "ids": [
+        236,
+        168
+      ],
+      "goods_id": 2009324,
+      "raw_item": 2954799340,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Mad Craftsman's Cookbook [1]": {
+      "ids": [
+        237,
+        168
+      ],
+      "goods_id": 2009325,
+      "raw_item": 2954799341,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "St. Trina Disciple's Cookbook [1]": {
+      "ids": [
+        238,
+        168
+      ],
+      "goods_id": 2009326,
+      "raw_item": 2954799342,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Fire Knight's Cookbook [1]": {
+      "ids": [
+        239,
+        168
+      ],
+      "goods_id": 2009327,
+      "raw_item": 2954799343,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Ancient Dragon Knight's Cookbook [2]": {
+      "ids": [
+        240,
+        168
+      ],
+      "goods_id": 2009328,
+      "raw_item": 2954799344,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Loyal Knight's Cookbook": {
+      "ids": [
+        241,
+        168
+      ],
+      "goods_id": 2009329,
+      "raw_item": 2954799345,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Battlefield Priest's Cookbook [1]": {
+      "ids": [
+        242,
+        168
+      ],
+      "goods_id": 2009330,
+      "raw_item": 2954799346,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Igon's Cookbook [1]": {
+      "ids": [
+        243,
+        168
+      ],
+      "goods_id": 2009331,
+      "raw_item": 2954799347,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Battlefield Priest's Cookbook [2]": {
+      "ids": [
+        244,
+        168
+      ],
+      "goods_id": 2009332,
+      "raw_item": 2954799348,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Forager Brood Cookbook [7]": {
+      "ids": [
+        245,
+        168
+      ],
+      "goods_id": 2009333,
+      "raw_item": 2954799349,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "St. Trina Disciple's Cookbook [3]": {
+      "ids": [
+        246,
+        168
+      ],
+      "goods_id": 2009334,
+      "raw_item": 2954799350,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Grave Keeper's Cookbook [2]": {
+      "ids": [
+        247,
+        168
+      ],
+      "goods_id": 2009335,
+      "raw_item": 2954799351,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Antiquity Scholar's Cookbook [2]": {
+      "ids": [
+        248,
+        168
+      ],
+      "goods_id": 2009336,
+      "raw_item": 2954799352,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Tibia's Cookbook": {
+      "ids": [
+        249,
+        168
+      ],
+      "goods_id": 2009337,
+      "raw_item": 2954799353,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Mad Craftsman's Cookbook [3]": {
+      "ids": [
+        250,
+        168
+      ],
+      "goods_id": 2009338,
+      "raw_item": 2954799354,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Battlefield Priest's Cookbook [3]": {
+      "ids": [
+        251,
+        168
+      ],
+      "goods_id": 2009339,
+      "raw_item": 2954799355,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Fire Knight's Cookbook [2]": {
+      "ids": [
+        252,
+        168
+      ],
+      "goods_id": 2009340,
+      "raw_item": 2954799356,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Antiquity Scholar's Cookbook [1]": {
+      "ids": [
+        253,
+        168
+      ],
+      "goods_id": 2009341,
+      "raw_item": 2954799357,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Finger-Weaver's Cookbook [1]": {
+      "ids": [
+        254,
+        168
+      ],
+      "goods_id": 2009342,
+      "raw_item": 2954799358,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Battlefield Priest's Cookbook [4]": {
+      "ids": [
+        255,
+        168
+      ],
+      "goods_id": 2009343,
+      "raw_item": 2954799359,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "Grave Keeper's Cookbook [1]": {
+      "ids": [
+        0,
+        169
+      ],
+      "goods_id": 2009344,
+      "raw_item": 2954799360,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    },
+    "St. Trina Disciple's Cookbook [2]": {
+      "ids": [
+        1,
+        169
+      ],
+      "goods_id": 2009345,
+      "raw_item": 2954799361,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCookbooks.txt"
+    }
+  },
+  "Crafting Materials": {
+    "Hefty Cracked Pot": {
+      "ids": [
+        156,
+        169
+      ],
+      "goods_id": 2009500,
+      "raw_item": 2954799516,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Beast Horn": {
+      "ids": [
+        24,
+        191
+      ],
+      "goods_id": 2015000,
+      "raw_item": 2954805016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Spirit Calculus": {
+      "ids": [
+        34,
+        191
+      ],
+      "goods_id": 2015010,
+      "raw_item": 2954805026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Pearlescent Scale": {
+      "ids": [
+        44,
+        191
+      ],
+      "goods_id": 2015020,
+      "raw_item": 2954805036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Scorpion Liver": {
+      "ids": [
+        54,
+        191
+      ],
+      "goods_id": 2015030,
+      "raw_item": 2954805046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Fly Mold": {
+      "ids": [
+        64,
+        191
+      ],
+      "goods_id": 2015040,
+      "raw_item": 2954805056,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Rada Fruit": {
+      "ids": [
+        161,
+        210
+      ],
+      "goods_id": 2020001,
+      "raw_item": 2954810017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Redflesh Mushroom": {
+      "ids": [
+        162,
+        210
+      ],
+      "goods_id": 2020002,
+      "raw_item": 2954810018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Whiteflesh Mushroom": {
+      "ids": [
+        163,
+        210
+      ],
+      "goods_id": 2020003,
+      "raw_item": 2954810019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Knot Resin": {
+      "ids": [
+        164,
+        210
+      ],
+      "goods_id": 2020004,
+      "raw_item": 2954810020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Dewgem": {
+      "ids": [
+        165,
+        210
+      ],
+      "goods_id": 2020005,
+      "raw_item": 2954810021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Black Pyrefly": {
+      "ids": [
+        166,
+        210
+      ],
+      "goods_id": 2020006,
+      "raw_item": 2954810022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Glintslab Firefly": {
+      "ids": [
+        167,
+        210
+      ],
+      "goods_id": 2020007,
+      "raw_item": 2954810023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Yellow Fulgurbloom": {
+      "ids": [
+        168,
+        210
+      ],
+      "goods_id": 2020008,
+      "raw_item": 2954810024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Shadow Sunflower": {
+      "ids": [
+        169,
+        210
+      ],
+      "goods_id": 2020009,
+      "raw_item": 2954810025,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Toxic Mossling": {
+      "ids": [
+        170,
+        210
+      ],
+      "goods_id": 2020010,
+      "raw_item": 2954810026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Scarlet Bud": {
+      "ids": [
+        171,
+        210
+      ],
+      "goods_id": 2020011,
+      "raw_item": 2954810027,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Sanguine Amaryllis": {
+      "ids": [
+        172,
+        210
+      ],
+      "goods_id": 2020012,
+      "raw_item": 2954810028,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Frozen Maggot": {
+      "ids": [
+        173,
+        210
+      ],
+      "goods_id": 2020013,
+      "raw_item": 2954810029,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Deep-Purple Lily": {
+      "ids": [
+        174,
+        210
+      ],
+      "goods_id": 2020014,
+      "raw_item": 2954810030,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Nectarblood Burgeon": {
+      "ids": [
+        175,
+        210
+      ],
+      "goods_id": 2020015,
+      "raw_item": 2954810031,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Winter-Lantern Fly": {
+      "ids": [
+        176,
+        210
+      ],
+      "goods_id": 2020016,
+      "raw_item": 2954810032,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Swollen Grape": {
+      "ids": [
+        177,
+        210
+      ],
+      "goods_id": 2020017,
+      "raw_item": 2954810033,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Grave Keeper's Brainpan": {
+      "ids": [
+        178,
+        210
+      ],
+      "goods_id": 2020018,
+      "raw_item": 2954810034,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Horn-Strewn Excrement": {
+      "ids": [
+        179,
+        210
+      ],
+      "goods_id": 2020019,
+      "raw_item": 2954810035,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Gas Stone": {
+      "ids": [
+        180,
+        210
+      ],
+      "goods_id": 2020020,
+      "raw_item": 2954810036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Ghostflame Bloom": {
+      "ids": [
+        181,
+        210
+      ],
+      "goods_id": 2020021,
+      "raw_item": 2954810037,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Grave Cricket": {
+      "ids": [
+        182,
+        210
+      ],
+      "goods_id": 2020022,
+      "raw_item": 2954810038,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Dragon's Calorbloom": {
+      "ids": [
+        183,
+        210
+      ],
+      "goods_id": 2020023,
+      "raw_item": 2954810039,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Finger Mimic": {
+      "ids": [
+        184,
+        210
+      ],
+      "goods_id": 2020024,
+      "raw_item": 2954810040,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Empyrean-Blood Burgeon": {
+      "ids": [
+        185,
+        210
+      ],
+      "goods_id": 2020025,
+      "raw_item": 2954810041,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Congealed Putrescence": {
+      "ids": [
+        186,
+        210
+      ],
+      "goods_id": 2020026,
+      "raw_item": 2954810042,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Roundrock": {
+      "ids": [
+        187,
+        210
+      ],
+      "goods_id": 2020027,
+      "raw_item": 2954810043,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Spiritgrave Stone": {
+      "ids": [
+        188,
+        210
+      ],
+      "goods_id": 2020028,
+      "raw_item": 2954810044,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Rauh Burrow": {
+      "ids": [
+        189,
+        210
+      ],
+      "goods_id": 2020029,
+      "raw_item": 2954810045,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Ember of Messmer": {
+      "ids": [
+        190,
+        210
+      ],
+      "goods_id": 2020030,
+      "raw_item": 2954810046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Blessed Bone Shard": {
+      "ids": [
+        191,
+        210
+      ],
+      "goods_id": 2020031,
+      "raw_item": 2954810047,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Red Fulgurbloom": {
+      "ids": [
+        192,
+        210
+      ],
+      "goods_id": 2020032,
+      "raw_item": 2954810048,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Nailstone": {
+      "ids": [
+        193,
+        210
+      ],
+      "goods_id": 2020033,
+      "raw_item": 2954810049,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Sharp Gravel Stone": {
+      "ids": [
+        194,
+        210
+      ],
+      "goods_id": 2020034,
+      "raw_item": 2954810050,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    },
+    "Furnace Visage": {
+      "ids": [
+        195,
+        210
+      ],
+      "goods_id": 2020035,
+      "raw_item": 2954810051,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCraftingMaterials.txt"
+    }
+  },
+  "Crystal Tears": {
+    "Viridian Hidden Tear": {
+      "ids": [
+        120,
+        175
+      ],
+      "goods_id": 2011000,
+      "raw_item": 2954801016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Crimsonburst Dried Tear": {
+      "ids": [
+        130,
+        175
+      ],
+      "goods_id": 2011010,
+      "raw_item": 2954801026,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Crimson-Sapping Cracked Tear": {
+      "ids": [
+        140,
+        175
+      ],
+      "goods_id": 2011020,
+      "raw_item": 2954801036,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Cerulean-Sapping Cracked Tear": {
+      "ids": [
+        150,
+        175
+      ],
+      "goods_id": 2011030,
+      "raw_item": 2954801046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Oil-Soaked Tear": {
+      "ids": [
+        160,
+        175
+      ],
+      "goods_id": 2011040,
+      "raw_item": 2954801056,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Bloodsucking Cracked Tear": {
+      "ids": [
+        170,
+        175
+      ],
+      "goods_id": 2011050,
+      "raw_item": 2954801066,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Glovewort Crystal Tear": {
+      "ids": [
+        180,
+        175
+      ],
+      "goods_id": 2011060,
+      "raw_item": 2954801076,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    },
+    "Deflecting Hardtear": {
+      "ids": [
+        190,
+        175
+      ],
+      "goods_id": 2011070,
+      "raw_item": 2954801086,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCCrystalTears.txt"
+    }
+  },
+  "Gestures": {
+    "Ring of Miquella": {
+      "ids": [
+        168,
+        167
+      ],
+      "goods_id": 2009000,
+      "raw_item": 2954799016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGestures.txt"
+    },
+    "May the Best Win": {
+      "ids": [
+        169,
+        167
+      ],
+      "goods_id": 2009001,
+      "raw_item": 2954799017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGestures.txt"
+    },
+    "The Two Fingers": {
+      "ids": [
+        170,
+        167
+      ],
+      "goods_id": 2009002,
+      "raw_item": 2954799018,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGestures.txt"
+    },
+    "Let Us Go Together": {
+      "ids": [
+        171,
+        167
+      ],
+      "goods_id": 2009003,
+      "raw_item": 2954799019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGestures.txt"
+    },
+    "O Mother": {
+      "ids": [
+        172,
+        167
+      ],
+      "goods_id": 2009004,
+      "raw_item": 2954799020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCGestures.txt"
+    }
+  },
+  "Key Items": {
+    "Miquella's Great Rune": {
+      "ids": [
+        192,
+        163
+      ],
+      "goods_id": 2008000,
+      "raw_item": 2954798016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Igon's Furled Finger": {
+      "ids": [
+        195,
+        163
+      ],
+      "goods_id": 2008003,
+      "raw_item": 2954798019,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Well Depths Key": {
+      "ids": [
+        196,
+        163
+      ],
+      "goods_id": 2008004,
+      "raw_item": 2954798020,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Gaol Upper Level Key": {
+      "ids": [
+        197,
+        163
+      ],
+      "goods_id": 2008005,
+      "raw_item": 2954798021,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Gaol Lower Level Key": {
+      "ids": [
+        198,
+        163
+      ],
+      "goods_id": 2008006,
+      "raw_item": 2954798022,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Cross Map": {
+      "ids": [
+        199,
+        163
+      ],
+      "goods_id": 2008007,
+      "raw_item": 2954798023,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Hole-Laden Necklace": {
+      "ids": [
+        200,
+        163
+      ],
+      "goods_id": 2008008,
+      "raw_item": 2954798024,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Heart of Bayle": {
+      "ids": [
+        203,
+        163
+      ],
+      "goods_id": 2008011,
+      "raw_item": 2954798027,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "New Cross Map": {
+      "ids": [
+        204,
+        163
+      ],
+      "goods_id": 2008012,
+      "raw_item": 2954798028,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Storeroom Key": {
+      "ids": [
+        205,
+        163
+      ],
+      "goods_id": 2008013,
+      "raw_item": 2954798029,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Secret Rite Scroll": {
+      "ids": [
+        206,
+        163
+      ],
+      "goods_id": 2008014,
+      "raw_item": 2954798030,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Black Syrup": {
+      "ids": [
+        211,
+        163
+      ],
+      "goods_id": 2008019,
+      "raw_item": 2954798035,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Messmer's Kindling": {
+      "ids": [
+        213,
+        163
+      ],
+      "goods_id": 2008021,
+      "raw_item": 2954798037,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Keep Wall Key": {
+      "ids": [
+        215,
+        163
+      ],
+      "goods_id": 2008023,
+      "raw_item": 2954798039,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Larval Tear": {
+      "ids": [
+        225,
+        163
+      ],
+      "goods_id": 2008033,
+      "raw_item": 2954798049,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    },
+    "Prayer Room Key": {
+      "ids": [
+        228,
+        163
+      ],
+      "goods_id": 2008036,
+      "raw_item": 2954798052,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCKeyItems.txt"
+    }
+  },
+  "Merchant Items": {
+    "Moore's Bell Bearing": {
+      "ids": [
+        68,
+        167
+      ],
+      "goods_id": 2008900,
+      "raw_item": 2954798916,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Ymir's Bell Bearing": {
+      "ids": [
+        69,
+        167
+      ],
+      "goods_id": 2008901,
+      "raw_item": 2954798917,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Herbalist's Bell Bearing": {
+      "ids": [
+        70,
+        167
+      ],
+      "goods_id": 2008902,
+      "raw_item": 2954798918,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Mushroom-Seller's Bell Bearing [1]": {
+      "ids": [
+        71,
+        167
+      ],
+      "goods_id": 2008903,
+      "raw_item": 2954798919,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Mushroom-Seller's Bell Bearing [2]": {
+      "ids": [
+        72,
+        167
+      ],
+      "goods_id": 2008904,
+      "raw_item": 2954798920,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Greasemonger's Bell Bearing": {
+      "ids": [
+        73,
+        167
+      ],
+      "goods_id": 2008905,
+      "raw_item": 2954798921,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Moldmonger's Bell Bearing": {
+      "ids": [
+        74,
+        167
+      ],
+      "goods_id": 2008906,
+      "raw_item": 2954798922,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Igon's Bell Bearing": {
+      "ids": [
+        75,
+        167
+      ],
+      "goods_id": 2008907,
+      "raw_item": 2954798923,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "Spellmachinist's Bell Bearing": {
+      "ids": [
+        76,
+        167
+      ],
+      "goods_id": 2008908,
+      "raw_item": 2954798924,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    },
+    "String-Seller's Bell Bearing": {
+      "ids": [
+        77,
+        167
+      ],
+      "goods_id": 2008909,
+      "raw_item": 2954798925,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMerchantItems.txt"
+    }
+  },
+  "Notes & Paintings": {
+    "Letter for Freyja": {
+      "ids": [
+        207,
+        163
+      ],
+      "goods_id": 2008015,
+      "raw_item": 2954798031,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Ruins Map": {
+      "ids": [
+        208,
+        163
+      ],
+      "goods_id": 2008016,
+      "raw_item": 2954798032,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Ruins Map (2nd)": {
+      "ids": [
+        209,
+        163
+      ],
+      "goods_id": 2008017,
+      "raw_item": 2954798033,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Ruins Map (3rd)": {
+      "ids": [
+        210,
+        163
+      ],
+      "goods_id": 2008018,
+      "raw_item": 2954798034,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Furnace Keeper's Note": {
+      "ids": [
+        217,
+        163
+      ],
+      "goods_id": 2008025,
+      "raw_item": 2954798041,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Castle Cross Message": {
+      "ids": [
+        219,
+        163
+      ],
+      "goods_id": 2008027,
+      "raw_item": 2954798043,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Ancient Ruins Cross Message": {
+      "ids": [
+        220,
+        163
+      ],
+      "goods_id": 2008028,
+      "raw_item": 2954798044,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Monk's Missive": {
+      "ids": [
+        221,
+        163
+      ],
+      "goods_id": 2008029,
+      "raw_item": 2954798045,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Storehouse Cross Message": {
+      "ids": [
+        222,
+        163
+      ],
+      "goods_id": 2008030,
+      "raw_item": 2954798046,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Note: Sealed Spiritsprings": {
+      "ids": [
+        67,
+        164
+      ],
+      "goods_id": 2008131,
+      "raw_item": 2954798147,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Torn Diary Page": {
+      "ids": [
+        224,
+        163
+      ],
+      "goods_id": 2008032,
+      "raw_item": 2954798048,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Message from Leda": {
+      "ids": [
+        226,
+        163
+      ],
+      "goods_id": 2008034,
+      "raw_item": 2954798050,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Tower of Shadow Message": {
+      "ids": [
+        229,
+        163
+      ],
+      "goods_id": 2008037,
+      "raw_item": 2954798053,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "\"Incursion\" Painting": {
+      "ids": [
+        136,
+        164
+      ],
+      "goods_id": 2008200,
+      "raw_item": 2954798216,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "\"The Sacred Tower\" Painting": {
+      "ids": [
+        137,
+        164
+      ],
+      "goods_id": 2008201,
+      "raw_item": 2954798217,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "\"Domain of Dragons\" Painting": {
+      "ids": [
+        138,
+        164
+      ],
+      "goods_id": 2008202,
+      "raw_item": 2954798218,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Map: Gravesite Plain": {
+      "ids": [
+        24,
+        166
+      ],
+      "goods_id": 2008600,
+      "raw_item": 2954798616,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Map: Scadu Altus": {
+      "ids": [
+        25,
+        166
+      ],
+      "goods_id": 2008601,
+      "raw_item": 2954798617,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Map: Southern Shore": {
+      "ids": [
+        26,
+        166
+      ],
+      "goods_id": 2008602,
+      "raw_item": 2954798618,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Map: Rauh Ruins": {
+      "ids": [
+        27,
+        166
+      ],
+      "goods_id": 2008603,
+      "raw_item": 2954798619,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "Map: Abyss": {
+      "ids": [
+        28,
+        166
+      ],
+      "goods_id": 2008604,
+      "raw_item": 2954798620,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "About the Scadutree Blessing": {
+      "ids": [
+        72,
+        168
+      ],
+      "goods_id": 2009160,
+      "raw_item": 2954799176,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "About the Revered Spirit Ash Blessing": {
+      "ids": [
+        73,
+        168
+      ],
+      "goods_id": 2009161,
+      "raw_item": 2954799177,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    },
+    "About New Inventory Features": {
+      "ids": [
+        74,
+        168
+      ],
+      "goods_id": 2009162,
+      "raw_item": 2954799178,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCNotesPaintings.txt"
+    }
+  },
+  "Tools": {
+    "Bondstone": {
+      "ids": [
+        56,
+        144
+      ],
+      "goods_id": 2003000,
+      "raw_item": 2954793016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTools.txt"
+    },
+    "Spritestone": {
+      "ids": [
+        57,
+        144
+      ],
+      "goods_id": 2003001,
+      "raw_item": 2954793017,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTools.txt"
+    },
+    "Horned Bairn": {
+      "ids": [
+        186,
+        144
+      ],
+      "goods_id": 2003130,
+      "raw_item": 2954793146,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTools.txt"
+    },
+    "Perfumed Oil of Ranah": {
+      "ids": [
+        196,
+        144
+      ],
+      "goods_id": 2003140,
+      "raw_item": 2954793156,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCTools.txt"
+    }
+  },
+  "Upgrade Materials": {
+    "Scadutree Fragment": {
+      "ids": [
+        144,
+        171
+      ],
+      "goods_id": 2010000,
+      "raw_item": 2954800016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCUpgradeMaterials.txt"
+    },
+    "Revered Spirit Ash": {
+      "ids": [
+        244,
+        171
+      ],
+      "goods_id": 2010100,
+      "raw_item": 2954800116,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCUpgradeMaterials.txt"
+    }
+  },
+  "Ammo": {
+    "- Piquebone Bolt": {
+      "ids": [
+        64,
+        100
+      ],
+      "goods_id": 52520000,
+      "raw_item": 3005310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAmmo.txt"
+    },
+    "- Rabbath's Greatbolt": {
+      "ids": [
+        96,
+        88
+      ],
+      "goods_id": 53500000,
+      "raw_item": 3006290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAmmo.txt"
+    },
+    "- Piquebone Arrow (Fletched)": {
+      "ids": [
+        224,
+        45
+      ],
+      "goods_id": 50540000,
+      "raw_item": 3003330016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAmmo.txt"
+    },
+    "- Piquebone Arrow": {
+      "ids": [
+        240,
+        84
+      ],
+      "goods_id": 50550000,
+      "raw_item": 3003340016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCAmmo.txt"
+    }
+  },
+  "Melee Weapons": {
+    "Main-gauche": {
+      "ids": [
+        96,
+        227
+      ],
+      "goods_id": 1500000,
+      "raw_item": 2954290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Velvet Sword of St. Trina": {
+      "ids": [
+        176,
+        76
+      ],
+      "goods_id": 2510000,
+      "raw_item": 2955300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Star-Lined Sword": {
+      "ids": [
+        192,
+        115
+      ],
+      "goods_id": 2520000,
+      "raw_item": 2955310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Carian Sorcery Sword": {
+      "ids": [
+        208,
+        154
+      ],
+      "goods_id": 2530000,
+      "raw_item": 2955320016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Stone-Sheathed Sword": {
+      "ids": [
+        224,
+        193
+      ],
+      "goods_id": 2540000,
+      "raw_item": 2955330016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Sword of Light": {
+      "ids": [
+        240,
+        232
+      ],
+      "goods_id": 2550000,
+      "raw_item": 2955340016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Sword of Darkness": {
+      "ids": [
+        0,
+        16
+      ],
+      "goods_id": 2560000,
+      "raw_item": 2955350016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Sword Lance": {
+      "ids": [
+        224,
+        103
+      ],
+      "goods_id": 3500000,
+      "raw_item": 2956290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Greatsword of Damnation": {
+      "ids": [
+        240,
+        142
+      ],
+      "goods_id": 3510000,
+      "raw_item": 2956300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Lizard Greatsword": {
+      "ids": [
+        0,
+        182
+      ],
+      "goods_id": 3520000,
+      "raw_item": 2956310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Greatsword of Solitude": {
+      "ids": [
+        48,
+        43
+      ],
+      "goods_id": 3550000,
+      "raw_item": 2956340016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Ancient Meteoric Ore Greatsword": {
+      "ids": [
+        32,
+        170
+      ],
+      "goods_id": 4500000,
+      "raw_item": 2957290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Greatsword of Radahn (Lord)": {
+      "ids": [
+        80,
+        31
+      ],
+      "goods_id": 4530000,
+      "raw_item": 2957320016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Moonrithyll's Knight Sword": {
+      "ids": [
+        96,
+        70
+      ],
+      "goods_id": 4540000,
+      "raw_item": 2957330016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Greatsword of Radahn (Light)": {
+      "ids": [
+        112,
+        109
+      ],
+      "goods_id": 4550000,
+      "raw_item": 2957340016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Queelign's Greatsword": {
+      "ids": [
+        160,
+        46
+      ],
+      "goods_id": 6500000,
+      "raw_item": 2959290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Spirit Sword": {
+      "ids": [
+        224,
+        112
+      ],
+      "goods_id": 7500000,
+      "raw_item": 2960290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Falx": {
+      "ids": [
+        240,
+        151
+      ],
+      "goods_id": 7510000,
+      "raw_item": 2960300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Dancing Blade of Ranah": {
+      "ids": [
+        0,
+        191
+      ],
+      "goods_id": 7520000,
+      "raw_item": 2960310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Horned Warrior's Sword": {
+      "ids": [
+        16,
+        230
+      ],
+      "goods_id": 7530000,
+      "raw_item": 2960320016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Putrescence Cleaver": {
+      "ids": [
+        32,
+        179
+      ],
+      "goods_id": 8500000,
+      "raw_item": 2961290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Freyja's Greatsword": {
+      "ids": [
+        48,
+        218
+      ],
+      "goods_id": 8510000,
+      "raw_item": 2961300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Horned Warrior's Greatsword": {
+      "ids": [
+        64,
+        1
+      ],
+      "goods_id": 8520000,
+      "raw_item": 2961310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Sword of Night": {
+      "ids": [
+        96,
+        245
+      ],
+      "goods_id": 9500000,
+      "raw_item": 2962290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Euporia": {
+      "ids": [
+        160,
+        55
+      ],
+      "goods_id": 10500000,
+      "raw_item": 2963290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Black Steel Twinblade": {
+      "ids": [
+        176,
+        94
+      ],
+      "goods_id": 10510000,
+      "raw_item": 2963300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Flowerstone Gavel": {
+      "ids": [
+        224,
+        121
+      ],
+      "goods_id": 11500000,
+      "raw_item": 2964290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Smithscript Greathammer": {
+      "ids": [
+        32,
+        188
+      ],
+      "goods_id": 12500000,
+      "raw_item": 2965290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Anvil Hammer": {
+      "ids": [
+        48,
+        227
+      ],
+      "goods_id": 12510000,
+      "raw_item": 2965300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Black Steel Greathammer": {
+      "ids": [
+        64,
+        10
+      ],
+      "goods_id": 12520000,
+      "raw_item": 2965310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Serpent Flail": {
+      "ids": [
+        96,
+        254
+      ],
+      "goods_id": 13500000,
+      "raw_item": 2966290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Smithscript Axe": {
+      "ids": [
+        160,
+        64
+      ],
+      "goods_id": 14500000,
+      "raw_item": 2967290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Death Knight's Twin Axes": {
+      "ids": [
+        176,
+        103
+      ],
+      "goods_id": 14510000,
+      "raw_item": 2967300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Messmer Soldier's Axe": {
+      "ids": [
+        192,
+        142
+      ],
+      "goods_id": 14520000,
+      "raw_item": 2967310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Forked-Tongue Hatchet": {
+      "ids": [
+        224,
+        220
+      ],
+      "goods_id": 14540000,
+      "raw_item": 2967330016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Death Knight's Longhaft Axe": {
+      "ids": [
+        224,
+        130
+      ],
+      "goods_id": 15500000,
+      "raw_item": 2968290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Bonny Butchering Knife": {
+      "ids": [
+        240,
+        169
+      ],
+      "goods_id": 15510000,
+      "raw_item": 2968300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Smithscript Spear": {
+      "ids": [
+        32,
+        197
+      ],
+      "goods_id": 16500000,
+      "raw_item": 2969290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Swift Spear": {
+      "ids": [
+        64,
+        19
+      ],
+      "goods_id": 16520000,
+      "raw_item": 2969310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Spear of the Impaler": {
+      "ids": [
+        96,
+        7
+      ],
+      "goods_id": 17500000,
+      "raw_item": 2970290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Messmer Soldier's Spear": {
+      "ids": [
+        112,
+        46
+      ],
+      "goods_id": 17510000,
+      "raw_item": 2970300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Barbed Staff-Spear": {
+      "ids": [
+        128,
+        85
+      ],
+      "goods_id": 17520000,
+      "raw_item": 2970310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Spirit Glaive": {
+      "ids": [
+        160,
+        73
+      ],
+      "goods_id": 18500000,
+      "raw_item": 2971290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Poleblade of the Bud": {
+      "ids": [
+        176,
+        112
+      ],
+      "goods_id": 18510000,
+      "raw_item": 2971300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Obsidian Lamina": {
+      "ids": [
+        224,
+        139
+      ],
+      "goods_id": 19500000,
+      "raw_item": 2972290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Tooth Whip": {
+      "ids": [
+        32,
+        206
+      ],
+      "goods_id": 20500000,
+      "raw_item": 2973290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Thiollier's Hidden Needle": {
+      "ids": [
+        96,
+        16
+      ],
+      "goods_id": 21500000,
+      "raw_item": 2974290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Pata": {
+      "ids": [
+        112,
+        55
+      ],
+      "goods_id": 21510000,
+      "raw_item": 2974300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Madding Hand": {
+      "ids": [
+        144,
+        133
+      ],
+      "goods_id": 21530000,
+      "raw_item": 2974320016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Golem Fist": {
+      "ids": [
+        160,
+        172
+      ],
+      "goods_id": 21540000,
+      "raw_item": 2974330016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Shield of Night": {
+      "ids": [
+        176,
+        211
+      ],
+      "goods_id": 21550000,
+      "raw_item": 2974340016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Claws of Night": {
+      "ids": [
+        160,
+        82
+      ],
+      "goods_id": 22500000,
+      "raw_item": 2975290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Devonia's Hammer": {
+      "ids": [
+        224,
+        148
+      ],
+      "goods_id": 23500000,
+      "raw_item": 2976290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Shadow Sunflower Blossom": {
+      "ids": [
+        240,
+        187
+      ],
+      "goods_id": 23510000,
+      "raw_item": 2976300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Gazing Finger": {
+      "ids": [
+        0,
+        227
+      ],
+      "goods_id": 23520000,
+      "raw_item": 2976310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Nanaya's Torch": {
+      "ids": [
+        32,
+        215
+      ],
+      "goods_id": 24500000,
+      "raw_item": 2977290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Lamenting Visage": {
+      "ids": [
+        48,
+        254
+      ],
+      "goods_id": 24510000,
+      "raw_item": 2977300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Igon's Harpoon": {
+      "ids": [
+        224,
+        211
+      ],
+      "goods_id": 51500000,
+      "raw_item": 3004290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Dryleaf Arts": {
+      "ids": [
+        32,
+        40
+      ],
+      "goods_id": 60500000,
+      "raw_item": 3013290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Dane's Footwork": {
+      "ids": [
+        48,
+        79
+      ],
+      "goods_id": 60510000,
+      "raw_item": 3013300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Firespark Perfume Bottle": {
+      "ids": [
+        96,
+        106
+      ],
+      "goods_id": 61500000,
+      "raw_item": 3014290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Chilling Perfume Bottle": {
+      "ids": [
+        112,
+        145
+      ],
+      "goods_id": 61510000,
+      "raw_item": 3014300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Frenzyflame Perfume Bottle": {
+      "ids": [
+        128,
+        184
+      ],
+      "goods_id": 61520000,
+      "raw_item": 3014310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Lightning Perfume Bottle": {
+      "ids": [
+        144,
+        223
+      ],
+      "goods_id": 61530000,
+      "raw_item": 3014320016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Deadly Poison Perfume Bottle": {
+      "ids": [
+        160,
+        6
+      ],
+      "goods_id": 61540000,
+      "raw_item": 3014330016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Smithscript Dagger": {
+      "ids": [
+        224,
+        238
+      ],
+      "goods_id": 63500000,
+      "raw_item": 3016290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Backhand Blade": {
+      "ids": [
+        32,
+        49
+      ],
+      "goods_id": 64500000,
+      "raw_item": 3017290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Smithscript Cirque": {
+      "ids": [
+        48,
+        88
+      ],
+      "goods_id": 64510000,
+      "raw_item": 3017300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Curseblade's Cirque": {
+      "ids": [
+        64,
+        127
+      ],
+      "goods_id": 64520000,
+      "raw_item": 3017310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Great Katana": {
+      "ids": [
+        160,
+        181
+      ],
+      "goods_id": 66500000,
+      "raw_item": 3019290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Dragon-Hunter's Great Katana": {
+      "ids": [
+        176,
+        220
+      ],
+      "goods_id": 66510000,
+      "raw_item": 3019300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Rakshasa's Great Katana": {
+      "ids": [
+        192,
+        3
+      ],
+      "goods_id": 66520000,
+      "raw_item": 3019310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Milady": {
+      "ids": [
+        224,
+        247
+      ],
+      "goods_id": 67500000,
+      "raw_item": 3020290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Leda's Sword": {
+      "ids": [
+        240,
+        30
+      ],
+      "goods_id": 67510000,
+      "raw_item": 3020300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Rellana's Twin Blades": {
+      "ids": [
+        0,
+        70
+      ],
+      "goods_id": 67520000,
+      "raw_item": 3020310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Beast Claw": {
+      "ids": [
+        32,
+        58
+      ],
+      "goods_id": 68500000,
+      "raw_item": 3021290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    },
+    "Red Bear's Claw": {
+      "ids": [
+        48,
+        97
+      ],
+      "goods_id": 68510000,
+      "raw_item": 3021300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCMeleeWeapons.txt"
+    }
+  },
+  "Ranged Weapons": {
+    "- Bone Bow": {
+      "ids": [
+        32,
+        251
+      ],
+      "goods_id": 40500000,
+      "raw_item": 2993290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCRangedWeapons.txt"
+    },
+    "- Ansbach's Longbow": {
+      "ids": [
+        112,
+        100
+      ],
+      "goods_id": 41510000,
+      "raw_item": 2994300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCRangedWeapons.txt"
+    },
+    "- Igon's Greatbow": {
+      "ids": [
+        160,
+        127
+      ],
+      "goods_id": 42500000,
+      "raw_item": 2995290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCRangedWeapons.txt"
+    },
+    "- Repeating Crossbow": {
+      "ids": [
+        224,
+        193
+      ],
+      "goods_id": 43500000,
+      "raw_item": 2996290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCRangedWeapons.txt"
+    },
+    "- Spread Crossbow": {
+      "ids": [
+        240,
+        232
+      ],
+      "goods_id": 43510000,
+      "raw_item": 2996300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCRangedWeapons.txt"
+    },
+    "- Rabbath's Cannon": {
+      "ids": [
+        32,
+        4
+      ],
+      "goods_id": 44500000,
+      "raw_item": 2997290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCRangedWeapons.txt"
+    }
+  },
+  "Shields": {
+    "- Messmer Soldier Shield": {
+      "ids": [
+        224,
+        166
+      ],
+      "goods_id": 31500000,
+      "raw_item": 2984290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Wolf Crest Shield": {
+      "ids": [
+        240,
+        205
+      ],
+      "goods_id": 31510000,
+      "raw_item": 2984300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Serpent Crest Shield": {
+      "ids": [
+        0,
+        245
+      ],
+      "goods_id": 31520000,
+      "raw_item": 2984310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Golden Lion Shield": {
+      "ids": [
+        16,
+        28
+      ],
+      "goods_id": 31530000,
+      "raw_item": 2984320016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Black Steel Greatshield": {
+      "ids": [
+        32,
+        233
+      ],
+      "goods_id": 32500000,
+      "raw_item": 2985290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Verdigris Greatshield": {
+      "ids": [
+        64,
+        55
+      ],
+      "goods_id": 32520000,
+      "raw_item": 2985310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "Smithscript Shield": {
+      "ids": [
+        176,
+        139
+      ],
+      "goods_id": 30510000,
+      "raw_item": 2983300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Dueling Shield": {
+      "ids": [
+        160,
+        172
+      ],
+      "goods_id": 62500000,
+      "raw_item": 3015290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    },
+    "- Carian Thrusting Shield": {
+      "ids": [
+        176,
+        211
+      ],
+      "goods_id": 62510000,
+      "raw_item": 3015300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCShields.txt"
+    }
+  },
+  "Spell Tools": {
+    "Staff of the Great Beyond": {
+      "ids": [
+        112,
+        82
+      ],
+      "goods_id": 33510000,
+      "raw_item": 2986300016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCSpellTools.txt"
+    },
+    "Maternal Staff": {
+      "ids": [
+        128,
+        121
+      ],
+      "goods_id": 33520000,
+      "raw_item": 2986310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCSpellTools.txt"
+    },
+    "Dryleaf Seal": {
+      "ids": [
+        160,
+        109
+      ],
+      "goods_id": 34500000,
+      "raw_item": 2987290016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCSpellTools.txt"
+    },
+    "Spiraltree Seal": {
+      "ids": [
+        192,
+        187
+      ],
+      "goods_id": 34520000,
+      "raw_item": 2987310016,
+      "source": "Shadow of the Erdtree",
+      "source_file": "DLCSpellTools.txt"
+    }
+  }
+}

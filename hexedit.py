@@ -1,4 +1,5 @@
 import binascii, re, hashlib, random, base64, stat_progression, itemdata, os, allitems_dict, savefile_io
+from logic import checksum as checksum_logic
 from allitems_dict import itemdict
 
 INVENTORY_ENTRY_SIZE = 12
@@ -147,48 +148,8 @@ def recalc_checksum(file):
     """
     with open(file, "rb") as fh:
         dat = fh.read()
-        slot_ls = []
-        slot_len = 2621439
-        cs_len = 15
-        s_ind = 0x00000310
-        c_ind = 0x00000300
-
-        # Build nested list containing data and checksum related to each slot
-        for i in range(10):
-            d = dat[s_ind : s_ind + slot_len + 1]  # Extract data for the slot
-            c = dat[c_ind : c_ind + cs_len + 1]  # Extract checksum for the slot
-            slot_ls.append([d, c])  # Append the data and checksum to the slot list
-            s_ind += 2621456  # Increment the slot data index
-            c_ind += 2621456  # Increment the checksum index
-
-        # Do comparisons and recalculate checksums
-        for ind, i in enumerate(slot_ls):
-            new_cs = hashlib.md5(i[0]).hexdigest()  # Recalculate the checksum for the data
-            cur_cs = binascii.hexlify(i[1]).decode("utf-8")  # Convert the current checksum to a string
-
-            if new_cs != cur_cs:  # Compare the recalculated and current checksums
-                slot_ls[ind][1] = binascii.unhexlify(new_cs)  # Update the checksum in the slot list
-
-        slot_len = 2621439
-        cs_len = 15
-        s_ind = 0x00000310
-        c_ind = 0x00000300
-        # Insert all checksums into data
-        for i in slot_ls:
-            dat = dat[:s_ind] + i[0] + dat[s_ind + slot_len + 1 :]  # Update the data in the original data
-            dat = dat[:c_ind] + i[1] + dat[c_ind + cs_len + 1 :]  # Update the checksum in the original data
-            s_ind += 2621456  # Increment the slot data index
-            c_ind += 2621456  # Increment the checksum index
-
-        # Manually doing General checksum
-        general = dat[0x019003B0 : 0x019603AF + 1]  # Extract the data for the general checksum
-        new_cs = hashlib.md5(general).hexdigest()  # Recalculate the general checksum
-        cur_cs = binascii.hexlify(dat[0x019003A0 : 0x019003AF + 1]).decode("utf-8")  # Convert the current general checksum to a string
-
-        writeval = binascii.unhexlify(new_cs)  # Convert the recalculated general checksum to bytes
-        dat = dat[:0x019003A0] + writeval + dat[0x019003AF + 1 :]  # Update the general checksum in the original data
-
-        write_save_bytes(file, dat, backup_label="checksum")
+    recalculated = checksum_logic.recalculate_data(dat)
+    write_save_bytes(file, recalculated, backup_label="checksum")
 
 def change_name(file, nw_nm, dest_slot):
     """
@@ -801,6 +762,24 @@ def additem(file, slot, itemids, quantity):
         return True
 
     return None
+
+
+def set_item_quantity_at_index(file, slot, raw_item, index, quantity):
+    cs = get_slot_ls(file)[slot - 1]
+    slices = get_slot_slices(file)
+    s_start = slices[slot - 1][0]
+    s_end = slices[slot - 1][1]
+    raw_at_index, cur_quantity, uid = _read_inventory_entry(cs, index)
+    if raw_at_index != int(raw_item) or not _is_valid_inventory_entry(raw_at_index, cur_quantity, uid):
+        return None
+
+    quantity_bytes = _encode_quantity(max(0, int(quantity)), int(raw_item))
+    quantity_start = index + 4
+    quantity_end = quantity_start + len(quantity_bytes)
+    ch = s_start + cs[:quantity_start] + quantity_bytes + cs[quantity_end:] + s_end
+    write_save_bytes(file, ch, backup_label="set-item-quantity")
+    recalc_checksum(file)
+    return True
 
 
 
